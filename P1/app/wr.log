@@ -490,3 +490,219 @@ MongoDB:  5be5a52b5f627d06be1042c2
 Beebotte:  [{'wts': 1541776684304, 'channel': 'P1', 'resource': 'titulo', 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'owner': 'adrian_gs', '_id': '5be5a52c0c967b41c5021ff4', 'ts': 1541776684304}, {'wts': 1541776684304, 'channel': 'P1', 'resource': 'votos', 'data': 13, 'owner': 'adrian_gs', '_id': '5be5a52c0c967b41c5021ff5', 'ts': 1541776684304}, {'wts': 1541776684304, 'channel': 'P1', 'resource': 'clics', 'data': 102, 'owner': 'adrian_gs', '_id': '5be5a52c0c967b41c5021ff6', 'ts': 1541776684304}, {'wts': 1541776684304, 'channel': 'P1', 'resource': 'fecha', 'data': '2018-09-11 07:18:03', 'owner': 'adrian_gs', '_id': '5be5a52c0c967b41c5021ff7', 'ts': 1541776684304}] 
 
 
+[ 2018-11-09 07:20:08.367466 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 139
+NVotos: 14
+MongoDB:  5be5a5a85f627d06d86cba96
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'owner': 'adrian_gs', 'ts': 1541776808663, 'wts': 1541776808663, '_id': '5be5a5a80c967b41c5022115', 'resource': 'titulo', 'channel': 'P1'}, {'data': 14, 'owner': 'adrian_gs', 'ts': 1541776808663, 'wts': 1541776808663, '_id': '5be5a5a80c967b41c5022116', 'resource': 'votos', 'channel': 'P1'}, {'data': 139, 'owner': 'adrian_gs', 'ts': 1541776808663, 'wts': 1541776808663, '_id': '5be5a5a80c967b41c5022117', 'resource': 'clics', 'channel': 'P1'}, {'data': '2018-09-11 07:20:08', 'owner': 'adrian_gs', 'ts': 1541776808663, 'wts': 1541776808663, '_id': '5be5a5a80c967b41c5022118', 'resource': 'fecha', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 07:22:05.980811 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 177
+NVotos: 17
+MongoDB:  5be5a61d5f627d06e4ed6649
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541776926556, 'resource': 'titulo', 'owner': 'adrian_gs', 'wts': 1541776926556, '_id': '5be5a61e0c967b41c50221dd', 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'channel': 'P1'}, {'ts': 1541776926556, 'resource': 'votos', 'owner': 'adrian_gs', 'wts': 1541776926556, '_id': '5be5a61e0c967b41c50221de', 'data': 17, 'channel': 'P1'}, {'ts': 1541776926556, 'resource': 'clics', 'owner': 'adrian_gs', 'wts': 1541776926556, '_id': '5be5a61e0c967b41c50221df', 'data': 177, 'channel': 'P1'}, {'ts': 1541776926556, 'resource': 'fecha', 'owner': 'adrian_gs', 'wts': 1541776926556, '_id': '5be5a61e0c967b41c50221e0', 'data': '2018-09-11 07:22:05', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 07:24:04.580653 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 210
+NVotos: 21
+MongoDB:  5be5a6945f627d06eeb946cd
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541777045280, 'channel': 'P1', 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'ts': 1541777045280, '_id': '5be5a6950c967b41c50222c2', 'owner': 'adrian_gs', 'resource': 'titulo'}, {'wts': 1541777045280, 'channel': 'P1', 'data': 21, 'ts': 1541777045280, '_id': '5be5a6950c967b41c50222c3', 'owner': 'adrian_gs', 'resource': 'votos'}, {'wts': 1541777045280, 'channel': 'P1', 'data': 210, 'ts': 1541777045280, '_id': '5be5a6950c967b41c50222c4', 'owner': 'adrian_gs', 'resource': 'clics'}, {'wts': 1541777045280, 'channel': 'P1', 'data': '2018-09-11 07:24:04', 'ts': 1541777045280, '_id': '5be5a6950c967b41c50222c5', 'owner': 'adrian_gs', 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 07:26:03.496777 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 245
+NVotos: 25
+MongoDB:  5be5a70b5f627d06fa7d0ffa
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541777168832, '_id': '5be5a7100c967b41c50223c2', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541777168832, 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'resource': 'titulo'}, {'wts': 1541777168832, '_id': '5be5a7100c967b41c50223c3', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541777168832, 'data': 25, 'resource': 'votos'}, {'wts': 1541777168832, '_id': '5be5a7100c967b41c50223c4', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541777168832, 'data': 245, 'resource': 'clics'}, {'wts': 1541777168832, '_id': '5be5a7100c967b41c50223c5', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541777168832, 'data': '2018-09-11 07:26:03', 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 07:28:02.946704 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 282
+NVotos: 29
+MongoDB:  5be5a7825f627d074311dda8
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'resource': 'titulo', 'owner': 'adrian_gs', 'wts': 1541777283390, 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'ts': 1541777283390, '_id': '5be5a7830c967b41c5022479'}, {'channel': 'P1', 'resource': 'votos', 'owner': 'adrian_gs', 'wts': 1541777283390, 'data': 29, 'ts': 1541777283390, '_id': '5be5a7830c967b41c502247a'}, {'channel': 'P1', 'resource': 'clics', 'owner': 'adrian_gs', 'wts': 1541777283390, 'data': 282, 'ts': 1541777283390, '_id': '5be5a7830c967b41c502247b'}, {'channel': 'P1', 'resource': 'fecha', 'owner': 'adrian_gs', 'wts': 1541777283390, 'data': '2018-09-11 07:28:02', 'ts': 1541777283390, '_id': '5be5a7830c967b41c502247c'}] 
+
+
+[ 2018-11-09 07:30:03.382211 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 321
+NVotos: 33
+MongoDB:  5be5a7fb5f627d0758a5251a
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541777403719, '_id': '5be5a7fb0c967b41c5022580', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541777403719, 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'resource': 'titulo'}, {'ts': 1541777403719, '_id': '5be5a7fb0c967b41c5022581', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541777403719, 'data': 33, 'resource': 'votos'}, {'ts': 1541777403719, '_id': '5be5a7fb0c967b41c5022582', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541777403719, 'data': 321, 'resource': 'clics'}, {'ts': 1541777403719, '_id': '5be5a7fb0c967b41c5022583', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541777403719, 'data': '2018-09-11 07:30:03', 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 07:32:03.942850 ]:
+Titulo: [' Grillo erizo gigante comiéndose a otro grillo ']
+N_Clics: 355
+NVotos: 13
+MongoDB:  5be5a8735f627d076cd51e13
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541777524400, 'data': ' Grillo erizo gigante comiéndose a otro grillo ', 'resource': 'titulo', '_id': '5be5a8740c967b41c50226c9', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541777524400}, {'ts': 1541777524400, 'data': 13, 'resource': 'votos', '_id': '5be5a8740c967b41c50226ca', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541777524400}, {'ts': 1541777524400, 'data': 355, 'resource': 'clics', '_id': '5be5a8740c967b41c50226cb', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541777524400}, {'ts': 1541777524400, 'data': '2018-09-11 07:32:03', 'resource': 'fecha', '_id': '5be5a8740c967b41c50226cc', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541777524400}] 
+
+
+[ 2018-11-09 07:34:05.451886 ]:
+Titulo: [' Grillo erizo gigante comiéndose a otro grillo ']
+N_Clics: 426
+NVotos: 17
+MongoDB:  5be5a8ed5f627d077d5b8387
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', '_id': '5be5a8ed0c967b41c502278f', 'data': ' Grillo erizo gigante comiéndose a otro grillo ', 'resource': 'titulo', 'ts': 1541777645737, 'channel': 'P1', 'wts': 1541777645737}, {'owner': 'adrian_gs', '_id': '5be5a8ed0c967b41c5022790', 'data': 17, 'resource': 'votos', 'ts': 1541777645737, 'channel': 'P1', 'wts': 1541777645737}, {'owner': 'adrian_gs', '_id': '5be5a8ed0c967b41c5022791', 'data': 426, 'resource': 'clics', 'ts': 1541777645737, 'channel': 'P1', 'wts': 1541777645737}, {'owner': 'adrian_gs', '_id': '5be5a8ed0c967b41c5022792', 'data': '2018-09-11 07:34:05', 'resource': 'fecha', 'ts': 1541777645737, 'channel': 'P1', 'wts': 1541777645737}] 
+
+
+[ 2018-11-09 07:36:03.540051 ]:
+Titulo: [' Grillo erizo gigante comiéndose a otro grillo ']
+N_Clics: 488
+NVotos: 19
+MongoDB:  5be5a9635f627d07907794e9
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'wts': 1541777763838, 'channel': 'P1', 'data': ' Grillo erizo gigante comiéndose a otro grillo ', 'ts': 1541777763838, '_id': '5be5a9630c967b41c5022893', 'owner': 'adrian_gs'}, {'resource': 'votos', 'wts': 1541777763838, 'channel': 'P1', 'data': 19, 'ts': 1541777763838, '_id': '5be5a9630c967b41c5022894', 'owner': 'adrian_gs'}, {'resource': 'clics', 'wts': 1541777763838, 'channel': 'P1', 'data': 488, 'ts': 1541777763838, '_id': '5be5a9630c967b41c5022895', 'owner': 'adrian_gs'}, {'resource': 'fecha', 'wts': 1541777763838, 'channel': 'P1', 'data': '2018-09-11 07:36:03', 'ts': 1541777763838, '_id': '5be5a9630c967b41c5022896', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 07:38:07.717511 ]:
+Titulo: [' Grillo erizo gigante comiéndose a otro grillo ']
+N_Clics: 562
+NVotos: 20
+MongoDB:  5be5a9df5f627d07a1cbdc08
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Grillo erizo gigante comiéndose a otro grillo ', 'resource': 'titulo', 'wts': 1541777888039, 'ts': 1541777888039, 'owner': 'adrian_gs', '_id': '5be5a9e00c967b41c50229ab', 'channel': 'P1'}, {'data': 20, 'resource': 'votos', 'wts': 1541777888039, 'ts': 1541777888039, 'owner': 'adrian_gs', '_id': '5be5a9e00c967b41c50229ac', 'channel': 'P1'}, {'data': 562, 'resource': 'clics', 'wts': 1541777888039, 'ts': 1541777888039, 'owner': 'adrian_gs', '_id': '5be5a9e00c967b41c50229ad', 'channel': 'P1'}, {'data': '2018-09-11 07:38:07', 'resource': 'fecha', 'wts': 1541777888039, 'ts': 1541777888039, 'owner': 'adrian_gs', '_id': '5be5a9e00c967b41c50229ae', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 07:40:03.103100 ]:
+Titulo: [' Grillo erizo gigante comiéndose a otro grillo ']
+N_Clics: 612
+NVotos: 21
+MongoDB:  5be5aa535f627d07b3204c72
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'data': ' Grillo erizo gigante comiéndose a otro grillo ', 'wts': 1541778003425, 'resource': 'titulo', 'ts': 1541778003425, '_id': '5be5aa530c967b41c5022a89', 'owner': 'adrian_gs'}, {'channel': 'P1', 'data': 21, 'wts': 1541778003425, 'resource': 'votos', 'ts': 1541778003425, '_id': '5be5aa530c967b41c5022a8a', 'owner': 'adrian_gs'}, {'channel': 'P1', 'data': 612, 'wts': 1541778003425, 'resource': 'clics', 'ts': 1541778003425, '_id': '5be5aa530c967b41c5022a8b', 'owner': 'adrian_gs'}, {'channel': 'P1', 'data': '2018-09-11 07:40:03', 'wts': 1541778003425, 'resource': 'fecha', 'ts': 1541778003425, '_id': '5be5aa530c967b41c5022a8c', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 07:42:03.131888 ]:
+Titulo: [' Grillo erizo gigante comiéndose a otro grillo ']
+N_Clics: 673
+NVotos: 22
+MongoDB:  5be5aacb5f627d07e1e382fd
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541778123609, 'wts': 1541778123609, 'owner': 'adrian_gs', 'resource': 'titulo', '_id': '5be5aacb0c967b41c5022b7e', 'data': ' Grillo erizo gigante comiéndose a otro grillo ', 'channel': 'P1'}, {'ts': 1541778123609, 'wts': 1541778123609, 'owner': 'adrian_gs', 'resource': 'votos', '_id': '5be5aacb0c967b41c5022b7f', 'data': 22, 'channel': 'P1'}, {'ts': 1541778123609, 'wts': 1541778123609, 'owner': 'adrian_gs', 'resource': 'clics', '_id': '5be5aacb0c967b41c5022b80', 'data': 673, 'channel': 'P1'}, {'ts': 1541778123609, 'wts': 1541778123609, 'owner': 'adrian_gs', 'resource': 'fecha', '_id': '5be5aacb0c967b41c5022b81', 'data': '2018-09-11 07:42:03', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 07:44:04.562446 ]:
+Titulo: [' Grillo erizo gigante comiéndose a otro grillo ']
+N_Clics: 729
+NVotos: 22
+MongoDB:  5be5ab445f627d07fce22464
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541778245270, '_id': '5be5ab450c967b41c5022d0c', 'owner': 'adrian_gs', 'resource': 'titulo', 'data': ' Grillo erizo gigante comiéndose a otro grillo ', 'channel': 'P1', 'wts': 1541778245270}, {'ts': 1541778245270, '_id': '5be5ab450c967b41c5022d0d', 'owner': 'adrian_gs', 'resource': 'votos', 'data': 22, 'channel': 'P1', 'wts': 1541778245270}, {'ts': 1541778245270, '_id': '5be5ab450c967b41c5022d0e', 'owner': 'adrian_gs', 'resource': 'clics', 'data': 729, 'channel': 'P1', 'wts': 1541778245270}, {'ts': 1541778245270, '_id': '5be5ab450c967b41c5022d0f', 'owner': 'adrian_gs', 'resource': 'fecha', 'data': '2018-09-11 07:44:04', 'channel': 'P1', 'wts': 1541778245270}] 
+
+
+[ 2018-11-09 07:46:08.533657 ]:
+Titulo: [' Grillo erizo gigante comiéndose a otro grillo ']
+N_Clics: 785
+NVotos: 25
+MongoDB:  5be5abc05f627d0812e9d2cc
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541778368841, 'channel': 'P1', 'resource': 'titulo', 'ts': 1541778368841, 'data': ' Grillo erizo gigante comiéndose a otro grillo ', 'owner': 'adrian_gs', '_id': '5be5abc00c967b41c5022e62'}, {'wts': 1541778368841, 'channel': 'P1', 'resource': 'votos', 'ts': 1541778368841, 'data': 25, 'owner': 'adrian_gs', '_id': '5be5abc00c967b41c5022e63'}, {'wts': 1541778368841, 'channel': 'P1', 'resource': 'clics', 'ts': 1541778368841, 'data': 785, 'owner': 'adrian_gs', '_id': '5be5abc00c967b41c5022e64'}, {'wts': 1541778368841, 'channel': 'P1', 'resource': 'fecha', 'ts': 1541778368841, 'data': '2018-09-11 07:46:08', 'owner': 'adrian_gs', '_id': '5be5abc00c967b41c5022e65'}] 
+
+
+[ 2018-11-09 07:48:02.907916 ]:
+Titulo: [' Grillo erizo gigante comiéndose a otro grillo ']
+N_Clics: 834
+NVotos: 26
+MongoDB:  5be5ac325f627d082c480e90
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Grillo erizo gigante comiéndose a otro grillo ', 'resource': 'titulo', 'channel': 'P1', 'wts': 1541778483350, 'owner': 'adrian_gs', 'ts': 1541778483350, '_id': '5be5ac330c967b41c5022f11'}, {'data': 26, 'resource': 'votos', 'channel': 'P1', 'wts': 1541778483350, 'owner': 'adrian_gs', 'ts': 1541778483350, '_id': '5be5ac330c967b41c5022f12'}, {'data': 834, 'resource': 'clics', 'channel': 'P1', 'wts': 1541778483350, 'owner': 'adrian_gs', 'ts': 1541778483350, '_id': '5be5ac330c967b41c5022f13'}, {'data': '2018-09-11 07:48:02', 'resource': 'fecha', 'channel': 'P1', 'wts': 1541778483350, 'owner': 'adrian_gs', 'ts': 1541778483350, '_id': '5be5ac330c967b41c5022f14'}] 
+
+
+[ 2018-11-09 07:50:03.232375 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 593
+NVotos: 45
+MongoDB:  5be5acab5f627d08417faf34
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'resource': 'titulo', 'owner': 'adrian_gs', 'ts': 1541778603555, '_id': '5be5acab0c967b41c5023002', 'channel': 'P1', 'wts': 1541778603555}, {'data': 45, 'resource': 'votos', 'owner': 'adrian_gs', 'ts': 1541778603555, '_id': '5be5acab0c967b41c5023003', 'channel': 'P1', 'wts': 1541778603555}, {'data': 593, 'resource': 'clics', 'owner': 'adrian_gs', 'ts': 1541778603555, '_id': '5be5acab0c967b41c5023004', 'channel': 'P1', 'wts': 1541778603555}, {'data': '2018-09-11 07:50:03', 'resource': 'fecha', 'owner': 'adrian_gs', 'ts': 1541778603555, '_id': '5be5acab0c967b41c5023005', 'channel': 'P1', 'wts': 1541778603555}] 
+
+
+[ 2018-11-09 07:52:03.302962 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 618
+NVotos: 46
+MongoDB:  5be5ad235f627d084f6049a8
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'resource': 'titulo', 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'ts': 1541778723608, 'owner': 'adrian_gs', '_id': '5be5ad230c967b41c5023134', 'wts': 1541778723608}, {'channel': 'P1', 'resource': 'votos', 'data': 46, 'ts': 1541778723608, 'owner': 'adrian_gs', '_id': '5be5ad230c967b41c5023135', 'wts': 1541778723608}, {'channel': 'P1', 'resource': 'clics', 'data': 618, 'ts': 1541778723608, 'owner': 'adrian_gs', '_id': '5be5ad230c967b41c5023136', 'wts': 1541778723608}, {'channel': 'P1', 'resource': 'fecha', 'data': '2018-09-11 07:52:03', 'ts': 1541778723608, 'owner': 'adrian_gs', '_id': '5be5ad230c967b41c5023137', 'wts': 1541778723608}] 
+
+
+[ 2018-11-09 07:54:03.513553 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 645
+NVotos: 47
+MongoDB:  5be5ad9b5f627d0864cc0d71
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541778843823, 'resource': 'titulo', 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'channel': 'P1', 'wts': 1541778843823, 'owner': 'adrian_gs', '_id': '5be5ad9b0c967b41c50231ea'}, {'ts': 1541778843823, 'resource': 'votos', 'data': 47, 'channel': 'P1', 'wts': 1541778843823, 'owner': 'adrian_gs', '_id': '5be5ad9b0c967b41c50231eb'}, {'ts': 1541778843823, 'resource': 'clics', 'data': 645, 'channel': 'P1', 'wts': 1541778843823, 'owner': 'adrian_gs', '_id': '5be5ad9b0c967b41c50231ec'}, {'ts': 1541778843823, 'resource': 'fecha', 'data': '2018-09-11 07:54:03', 'channel': 'P1', 'wts': 1541778843823, 'owner': 'adrian_gs', '_id': '5be5ad9b0c967b41c50231ed'}] 
+
+
+[ 2018-11-09 07:56:02.992747 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 670
+NVotos: 50
+MongoDB:  5be5ae125f627d086ec074ba
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541778964281, '_id': '5be5ae140c967b41c50232b5', 'owner': 'adrian_gs', 'ts': 1541778964281, 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'channel': 'P1', 'resource': 'titulo'}, {'wts': 1541778964281, '_id': '5be5ae140c967b41c50232b6', 'owner': 'adrian_gs', 'ts': 1541778964281, 'data': 50, 'channel': 'P1', 'resource': 'votos'}, {'wts': 1541778964281, '_id': '5be5ae140c967b41c50232b7', 'owner': 'adrian_gs', 'ts': 1541778964281, 'data': 670, 'channel': 'P1', 'resource': 'clics'}, {'wts': 1541778964281, '_id': '5be5ae140c967b41c50232b8', 'owner': 'adrian_gs', 'ts': 1541778964281, 'data': '2018-09-11 07:56:02', 'channel': 'P1', 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 07:58:03.166270 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 694
+NVotos: 52
+MongoDB:  5be5ae8b5f627d0878b896f0
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5ae8b0c967b41c5023379', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'titulo', 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'wts': 1541779083455, 'ts': 1541779083455}, {'_id': '5be5ae8b0c967b41c502337a', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'votos', 'data': 52, 'wts': 1541779083455, 'ts': 1541779083455}, {'_id': '5be5ae8b0c967b41c502337b', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'clics', 'data': 694, 'wts': 1541779083455, 'ts': 1541779083455}, {'_id': '5be5ae8b0c967b41c502337c', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'fecha', 'data': '2018-09-11 07:58:03', 'wts': 1541779083455, 'ts': 1541779083455}] 
+
+
+[ 2018-11-09 08:11:00.168669 ]:
+Titulo: [' Las trabas a las remunicipalizaciones del PP y Ciudadanos son anticonstitucionales ']
+N_Clics: 108
+NVotos: 90
+MongoDB:  5be5b1945f627d08827862a8
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541779860564, 'ts': 1541779860564, 'owner': 'adrian_gs', 'data': ' Las trabas a las remunicipalizaciones del PP y Ciudadanos son anticonstitucionales ', '_id': '5be5b1940c967b41c5023989', 'resource': 'titulo', 'channel': 'P1'}, {'wts': 1541779860564, 'ts': 1541779860564, 'owner': 'adrian_gs', 'data': 90, '_id': '5be5b1940c967b41c502398a', 'resource': 'votos', 'channel': 'P1'}, {'wts': 1541779860564, 'ts': 1541779860564, 'owner': 'adrian_gs', 'data': 108, '_id': '5be5b1940c967b41c502398b', 'resource': 'clics', 'channel': 'P1'}, {'wts': 1541779860564, 'ts': 1541779860564, 'owner': 'adrian_gs', 'data': '2018-09-11 08:11:00', '_id': '5be5b1940c967b41c502398c', 'resource': 'fecha', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 08:12:03.212698 ]:
+Titulo: [' Las trabas a las remunicipalizaciones del PP y Ciudadanos son anticonstitucionales ']
+N_Clics: 118
+NVotos: 93
+MongoDB:  5be5b1d35f627d088d00116c
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'ts': 1541779923500, 'owner': 'adrian_gs', 'data': ' Las trabas a las remunicipalizaciones del PP y Ciudadanos son anticonstitucionales ', 'channel': 'P1', 'wts': 1541779923500, '_id': '5be5b1d30c967b41c50239df'}, {'resource': 'votos', 'ts': 1541779923500, 'owner': 'adrian_gs', 'data': 93, 'channel': 'P1', 'wts': 1541779923500, '_id': '5be5b1d30c967b41c50239e0'}, {'resource': 'clics', 'ts': 1541779923500, 'owner': 'adrian_gs', 'data': 118, 'channel': 'P1', 'wts': 1541779923500, '_id': '5be5b1d30c967b41c50239e1'}, {'resource': 'fecha', 'ts': 1541779923500, 'owner': 'adrian_gs', 'data': '2018-09-11 08:12:03', 'channel': 'P1', 'wts': 1541779923500, '_id': '5be5b1d30c967b41c50239e2'}] 
+
+
+[ 2018-11-09 08:14:03.131004 ]:
+Titulo: [' Las trabas a las remunicipalizaciones del PP y Ciudadanos son anticonstitucionales ']
+N_Clics: 141
+NVotos: 105
+MongoDB:  5be5b24b5f627d08b1f2ff82
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541780043416, '_id': '5be5b24b0c967b41c5023aa7', 'ts': 1541780043416, 'owner': 'adrian_gs', 'channel': 'P1', 'data': ' Las trabas a las remunicipalizaciones del PP y Ciudadanos son anticonstitucionales ', 'resource': 'titulo'}, {'wts': 1541780043416, '_id': '5be5b24b0c967b41c5023aa8', 'ts': 1541780043416, 'owner': 'adrian_gs', 'channel': 'P1', 'data': 105, 'resource': 'votos'}, {'wts': 1541780043416, '_id': '5be5b24b0c967b41c5023aa9', 'ts': 1541780043416, 'owner': 'adrian_gs', 'channel': 'P1', 'data': 141, 'resource': 'clics'}, {'wts': 1541780043416, '_id': '5be5b24b0c967b41c5023aaa', 'ts': 1541780043416, 'owner': 'adrian_gs', 'channel': 'P1', 'data': '2018-09-11 08:14:03', 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 08:16:03.456225 ]:
+Titulo: [' Las trabas a las remunicipalizaciones del PP y Ciudadanos son anticonstitucionales ']
+N_Clics: 164
+NVotos: 114
+MongoDB:  5be5b2c35f627d08c25206b4
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541780163796, '_id': '5be5b2c30c967b41c5023bbc', 'channel': 'P1', 'ts': 1541780163796, 'owner': 'adrian_gs', 'resource': 'titulo', 'data': ' Las trabas a las remunicipalizaciones del PP y Ciudadanos son anticonstitucionales '}, {'wts': 1541780163796, '_id': '5be5b2c30c967b41c5023bbd', 'channel': 'P1', 'ts': 1541780163796, 'owner': 'adrian_gs', 'resource': 'votos', 'data': 114}, {'wts': 1541780163796, '_id': '5be5b2c30c967b41c5023bbe', 'channel': 'P1', 'ts': 1541780163796, 'owner': 'adrian_gs', 'resource': 'clics', 'data': 164}, {'wts': 1541780163796, '_id': '5be5b2c30c967b41c5023bbf', 'channel': 'P1', 'ts': 1541780163796, 'owner': 'adrian_gs', 'resource': 'fecha', 'data': '2018-09-11 08:16:03'}] 
+
+
