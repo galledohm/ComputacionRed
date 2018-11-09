@@ -14,6 +14,10 @@ html_text = html.decode(encoding='UTF-8')   #byte-type a texto
 #El contenido del título es el único ubicado en el header tipo 2, por tanto, se extraen todas las cadenas entre dichos tags
 titulo_h2 = re.findall('<h2>(.*?)</h2>',html_text)  #Ahorra usar reg.exp de urls
 titulo = re.findall('>(.*?)</a>',titulo_h2[0])  #Tratamos la cadena obtenida para obtener solo el título
+
+#Obtencion de la fecha y hora del sistema
+fecha = datetime.datetime.now()
+print ('[',fecha,']:')
 print ('Titulo:', titulo)
 
 n_clics = re.findall('<div class="clics">  (\d+) clics  </div>',html_text)
@@ -29,9 +33,6 @@ print ('NVotos:', n_votos_first)
 Nombre BBDD: 'p1-database'"""
 client_mdb = MongoClient('localhost', 27017)
 mongodb = client_mdb['p1-database']
-
-#Obtencion de la fecha y hora del sistema
-fecha = datetime.datetime.now()
 
 myrecord = {
         "titulo": titulo,
