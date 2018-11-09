@@ -51,9 +51,9 @@ bclient = BBT("tSMIxiJhc2vrUZV04YLPJHBP", "B8dx4NVHCoQW3n6ngsD8WOHUcQ4JDujy")
 
 record_id = bclient.writeBulk('P1', [
   {'resource': 'titulo', 'data': ''.join(titulo)},
-  {'resource': 'clics', 'data': n_clics_first},
-  {'resource': 'votos', 'data': n_votos_first},
-  {'resource': 'Fecha', 'data': fecha.strftime('%Y-%d-%m %H:%M:%S')}
+  {'resource': 'votos', 'data': int(n_votos_first)},
+  {'resource': 'clics', 'data': int(n_clics_first)},
+  {'resource': 'fecha', 'data': fecha.strftime('%Y-%d-%m %H:%M:%S')}
 ])
 
 print ('Beebotte: ', record_id, '\n\n')
