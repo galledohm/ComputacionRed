@@ -1,0 +1,24 @@
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 151
+NVotos: 22
+MongoDB:  5be4c9ca5f627d07d07caa98
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'wts': 1541720522618, 'resource': 'titulo', 'channel': 'P1', 'ts': 1541720522618, '_id': '5be4c9ca0c967b41c5007135'}] 
+
+
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 167
+NVotos: 23
+MongoDB:  5be4ca5f5f627d07f3998341
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'data': ' Las brujas de Zugarramurdi no eran brujas ', '_id': '5be4ca600c967b41c5007258', 'wts': 1541720672146, 'owner': 'adrian_gs', 'ts': 1541720672146, 'resource': 'titulo'}] 
+
+
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 184
+NVotos: 24
+MongoDB:  5be4cac25f627d0808e7066f
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541720771117, 'ts': 1541720771117, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5be4cac30c967b41c5007331', 'resource': 'titulo', 'data': ' Las brujas de Zugarramurdi no eran brujas '}] 
+
+
