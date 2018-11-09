@@ -706,3 +706,327 @@ MongoDB:  5be5b2c35f627d08c25206b4
 Beebotte:  [{'wts': 1541780163796, '_id': '5be5b2c30c967b41c5023bbc', 'channel': 'P1', 'ts': 1541780163796, 'owner': 'adrian_gs', 'resource': 'titulo', 'data': ' Las trabas a las remunicipalizaciones del PP y Ciudadanos son anticonstitucionales '}, {'wts': 1541780163796, '_id': '5be5b2c30c967b41c5023bbd', 'channel': 'P1', 'ts': 1541780163796, 'owner': 'adrian_gs', 'resource': 'votos', 'data': 114}, {'wts': 1541780163796, '_id': '5be5b2c30c967b41c5023bbe', 'channel': 'P1', 'ts': 1541780163796, 'owner': 'adrian_gs', 'resource': 'clics', 'data': 164}, {'wts': 1541780163796, '_id': '5be5b2c30c967b41c5023bbf', 'channel': 'P1', 'ts': 1541780163796, 'owner': 'adrian_gs', 'resource': 'fecha', 'data': '2018-09-11 08:16:03'}] 
 
 
+[ 2018-11-09 08:18:03.923973 ]:
+Titulo: [' Las trabas a las remunicipalizaciones del PP y Ciudadanos son anticonstitucionales ']
+N_Clics: 184
+NVotos: 121
+MongoDB:  5be5b33b5f627d08d7eb8654
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541780284247, 'resource': 'titulo', 'data': ' Las trabas a las remunicipalizaciones del PP y Ciudadanos son anticonstitucionales ', 'channel': 'P1', 'wts': 1541780284247, '_id': '5be5b33c0c967b41c5023caa', 'owner': 'adrian_gs'}, {'ts': 1541780284247, 'resource': 'votos', 'data': 121, 'channel': 'P1', 'wts': 1541780284247, '_id': '5be5b33c0c967b41c5023cab', 'owner': 'adrian_gs'}, {'ts': 1541780284247, 'resource': 'clics', 'data': 184, 'channel': 'P1', 'wts': 1541780284247, '_id': '5be5b33c0c967b41c5023cac', 'owner': 'adrian_gs'}, {'ts': 1541780284247, 'resource': 'fecha', 'data': '2018-09-11 08:18:03', 'channel': 'P1', 'wts': 1541780284247, '_id': '5be5b33c0c967b41c5023cad', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 08:20:08.532644 ]:
+Titulo: [' Anunció prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ']
+N_Clics: 301
+NVotos: 28
+MongoDB:  5be5b3b85f627d090035d5a8
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Anunció prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ', '_id': '5be5b3b80c967b41c5023da6', 'wts': 1541780408891, 'owner': 'adrian_gs', 'resource': 'titulo', 'channel': 'P1', 'ts': 1541780408891}, {'data': 28, '_id': '5be5b3b80c967b41c5023da7', 'wts': 1541780408891, 'owner': 'adrian_gs', 'resource': 'votos', 'channel': 'P1', 'ts': 1541780408891}, {'data': 301, '_id': '5be5b3b80c967b41c5023da8', 'wts': 1541780408891, 'owner': 'adrian_gs', 'resource': 'clics', 'channel': 'P1', 'ts': 1541780408891}, {'data': '2018-09-11 08:20:08', '_id': '5be5b3b80c967b41c5023da9', 'wts': 1541780408891, 'owner': 'adrian_gs', 'resource': 'fecha', 'channel': 'P1', 'ts': 1541780408891}] 
+
+
+[ 2018-11-09 08:22:02.787138 ]:
+Titulo: [' Anunció prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ']
+N_Clics: 399
+NVotos: 30
+MongoDB:  5be5b42a5f627d0916b8f8a3
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541780523070, 'ts': 1541780523070, 'resource': 'titulo', '_id': '5be5b42b0c967b41c5023e7d', 'data': ' Anunció prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] '}, {'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541780523070, 'ts': 1541780523070, 'resource': 'votos', '_id': '5be5b42b0c967b41c5023e7e', 'data': 30}, {'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541780523070, 'ts': 1541780523070, 'resource': 'clics', '_id': '5be5b42b0c967b41c5023e7f', 'data': 399}, {'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1541780523070, 'ts': 1541780523070, 'resource': 'fecha', '_id': '5be5b42b0c967b41c5023e80', 'data': '2018-09-11 08:22:02'}] 
+
+
+[ 2018-11-09 08:24:03.806667 ]:
+Titulo: [' Anunció prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ']
+N_Clics: 517
+NVotos: 36
+MongoDB:  5be5b4a35f627d093a07358e
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5b4a40c967b41c5023f89', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'titulo', 'ts': 1541780644096, 'wts': 1541780644096, 'data': ' Anunció prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] '}, {'_id': '5be5b4a40c967b41c5023f8a', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'votos', 'ts': 1541780644096, 'wts': 1541780644096, 'data': 36}, {'_id': '5be5b4a40c967b41c5023f8b', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'clics', 'ts': 1541780644096, 'wts': 1541780644096, 'data': 517}, {'_id': '5be5b4a40c967b41c5023f8c', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'fecha', 'ts': 1541780644096, 'wts': 1541780644096, 'data': '2018-09-11 08:24:03'}] 
+
+
+[ 2018-11-09 08:26:08.493679 ]:
+Titulo: [' Anunció prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ']
+N_Clics: 649
+NVotos: 42
+MongoDB:  5be5b5205f627d0944deef8a
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541780769932, 'data': ' Anunció prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ', 'owner': 'adrian_gs', 'resource': 'titulo', '_id': '5be5b5210c967b41c502408c', 'ts': 1541780769932, 'channel': 'P1'}, {'wts': 1541780769932, 'data': 42, 'owner': 'adrian_gs', 'resource': 'votos', '_id': '5be5b5210c967b41c502408d', 'ts': 1541780769932, 'channel': 'P1'}, {'wts': 1541780769932, 'data': 649, 'owner': 'adrian_gs', 'resource': 'clics', '_id': '5be5b5210c967b41c502408e', 'ts': 1541780769932, 'channel': 'P1'}, {'wts': 1541780769932, 'data': '2018-09-11 08:26:08', 'owner': 'adrian_gs', 'resource': 'fecha', '_id': '5be5b5210c967b41c502408f', 'ts': 1541780769932, 'channel': 'P1'}] 
+
+
+[ 2018-11-09 08:28:03.644146 ]:
+Titulo: [' Anunció prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ']
+N_Clics: 764
+NVotos: 48
+MongoDB:  5be5b5935f627d096933aaa4
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541780883990, 'owner': 'adrian_gs', 'ts': 1541780883990, 'data': ' Anunció prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ', 'resource': 'titulo', '_id': '5be5b5930c967b41c502413a', 'channel': 'P1'}, {'wts': 1541780883990, 'owner': 'adrian_gs', 'ts': 1541780883990, 'data': 48, 'resource': 'votos', '_id': '5be5b5930c967b41c502413b', 'channel': 'P1'}, {'wts': 1541780883990, 'owner': 'adrian_gs', 'ts': 1541780883990, 'data': 764, 'resource': 'clics', '_id': '5be5b5930c967b41c502413c', 'channel': 'P1'}, {'wts': 1541780883990, 'owner': 'adrian_gs', 'ts': 1541780883990, 'data': '2018-09-11 08:28:03', 'resource': 'fecha', '_id': '5be5b5930c967b41c502413d', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 08:30:02.833594 ]:
+Titulo: [' Anuncio prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ']
+N_Clics: 888
+NVotos: 61
+MongoDB:  5be5b60a5f627d09ae1f5a07
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541781003180, '_id': '5be5b60b0c967b41c5024228', 'resource': 'titulo', 'wts': 1541781003180, 'owner': 'adrian_gs', 'channel': 'P1', 'data': ' Anuncio prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] '}, {'ts': 1541781003180, '_id': '5be5b60b0c967b41c5024229', 'resource': 'votos', 'wts': 1541781003180, 'owner': 'adrian_gs', 'channel': 'P1', 'data': 61}, {'ts': 1541781003180, '_id': '5be5b60b0c967b41c502422a', 'resource': 'clics', 'wts': 1541781003180, 'owner': 'adrian_gs', 'channel': 'P1', 'data': 888}, {'ts': 1541781003180, '_id': '5be5b60b0c967b41c502422b', 'resource': 'fecha', 'wts': 1541781003180, 'owner': 'adrian_gs', 'channel': 'P1', 'data': '2018-09-11 08:30:02'}] 
+
+
+[ 2018-11-09 08:32:03.126093 ]:
+Titulo: [' Anuncio prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ']
+N_Clics: 989
+NVotos: 68
+MongoDB:  5be5b6835f627d09b939154e
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'wts': 1541781123466, '_id': '5be5b6830c967b41c5024362', 'channel': 'P1', 'ts': 1541781123466, 'data': ' Anuncio prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ', 'owner': 'adrian_gs'}, {'resource': 'votos', 'wts': 1541781123466, '_id': '5be5b6830c967b41c5024363', 'channel': 'P1', 'ts': 1541781123466, 'data': 68, 'owner': 'adrian_gs'}, {'resource': 'clics', 'wts': 1541781123466, '_id': '5be5b6830c967b41c5024364', 'channel': 'P1', 'ts': 1541781123466, 'data': 989, 'owner': 'adrian_gs'}, {'resource': 'fecha', 'wts': 1541781123466, '_id': '5be5b6830c967b41c5024365', 'channel': 'P1', 'ts': 1541781123466, 'data': '2018-09-11 08:32:03', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 08:34:03.359403 ]:
+Titulo: [' Anuncio prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ']
+N_Clics: 1084
+NVotos: 76
+MongoDB:  5be5b6fb5f627d09cef12342
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541781243728, '_id': '5be5b6fb0c967b41c5024421', 'wts': 1541781243728, 'resource': 'titulo', 'data': ' Anuncio prohibido de Navidad de la cadena de supermercados &quot;Iceland&quot; [EN] ', 'channel': 'P1', 'owner': 'adrian_gs'}, {'ts': 1541781243728, '_id': '5be5b6fb0c967b41c5024422', 'wts': 1541781243728, 'resource': 'votos', 'data': 76, 'channel': 'P1', 'owner': 'adrian_gs'}, {'ts': 1541781243728, '_id': '5be5b6fb0c967b41c5024423', 'wts': 1541781243728, 'resource': 'clics', 'data': 1084, 'channel': 'P1', 'owner': 'adrian_gs'}, {'ts': 1541781243728, '_id': '5be5b6fb0c967b41c5024424', 'wts': 1541781243728, 'resource': 'fecha', 'data': '2018-09-11 08:34:03', 'channel': 'P1', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 08:36:04.328966 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 226
+NVotos: 45
+MongoDB:  5be5b7745f627d09fa483ec2
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541781364746, 'channel': 'P1', 'owner': 'adrian_gs', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', 'ts': 1541781364746, '_id': '5be5b7740c967b41c5024502', 'resource': 'titulo'}, {'wts': 1541781364746, 'channel': 'P1', 'owner': 'adrian_gs', 'data': 45, 'ts': 1541781364746, '_id': '5be5b7740c967b41c5024503', 'resource': 'votos'}, {'wts': 1541781364746, 'channel': 'P1', 'owner': 'adrian_gs', 'data': 226, 'ts': 1541781364746, '_id': '5be5b7740c967b41c5024504', 'resource': 'clics'}, {'wts': 1541781364746, 'channel': 'P1', 'owner': 'adrian_gs', 'data': '2018-09-11 08:36:04', 'ts': 1541781364746, '_id': '5be5b7740c967b41c5024505', 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 08:38:03.665019 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 304
+NVotos: 50
+MongoDB:  5be5b7eb5f627d0a04d83de8
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'channel': 'P1', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', 'ts': 1541781484038, '_id': '5be5b7ec0c967b41c5024607', 'wts': 1541781484038, 'owner': 'adrian_gs'}, {'resource': 'votos', 'channel': 'P1', 'data': 50, 'ts': 1541781484038, '_id': '5be5b7ec0c967b41c5024608', 'wts': 1541781484038, 'owner': 'adrian_gs'}, {'resource': 'clics', 'channel': 'P1', 'data': 304, 'ts': 1541781484038, '_id': '5be5b7ec0c967b41c5024609', 'wts': 1541781484038, 'owner': 'adrian_gs'}, {'resource': 'fecha', 'channel': 'P1', 'data': '2018-09-11 08:38:03', 'ts': 1541781484038, '_id': '5be5b7ec0c967b41c502460a', 'wts': 1541781484038, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 08:40:03.257798 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 365
+NVotos: 59
+MongoDB:  5be5b8635f627d0a0e7525d2
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5b8630c967b41c50246f2', 'channel': 'P1', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', 'resource': 'titulo', 'owner': 'adrian_gs', 'ts': 1541781603614, 'wts': 1541781603614}, {'_id': '5be5b8630c967b41c50246f3', 'channel': 'P1', 'data': 59, 'resource': 'votos', 'owner': 'adrian_gs', 'ts': 1541781603614, 'wts': 1541781603614}, {'_id': '5be5b8630c967b41c50246f4', 'channel': 'P1', 'data': 365, 'resource': 'clics', 'owner': 'adrian_gs', 'ts': 1541781603614, 'wts': 1541781603614}, {'_id': '5be5b8630c967b41c50246f5', 'channel': 'P1', 'data': '2018-09-11 08:40:03', 'resource': 'fecha', 'owner': 'adrian_gs', 'ts': 1541781603614, 'wts': 1541781603614}] 
+
+
+[ 2018-11-09 08:42:04.494486 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 444
+NVotos: 65
+MongoDB:  5be5b8dc5f627d0a18f4f3bc
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'wts': 1541781724972, 'ts': 1541781724972, 'owner': 'adrian_gs', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', '_id': '5be5b8dc0c967b41c502484b', 'resource': 'titulo'}, {'channel': 'P1', 'wts': 1541781724972, 'ts': 1541781724972, 'owner': 'adrian_gs', 'data': 65, '_id': '5be5b8dc0c967b41c502484c', 'resource': 'votos'}, {'channel': 'P1', 'wts': 1541781724972, 'ts': 1541781724972, 'owner': 'adrian_gs', 'data': 444, '_id': '5be5b8dc0c967b41c502484d', 'resource': 'clics'}, {'channel': 'P1', 'wts': 1541781724972, 'ts': 1541781724972, 'owner': 'adrian_gs', 'data': '2018-09-11 08:42:04', '_id': '5be5b8dc0c967b41c502484e', 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 08:44:03.284541 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 503
+NVotos: 70
+MongoDB:  5be5b9535f627d0a22357d5e
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'wts': 1541781843645, '_id': '5be5b9530c967b41c5024921', 'ts': 1541781843645, 'resource': 'titulo', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', 'channel': 'P1'}, {'owner': 'adrian_gs', 'wts': 1541781843645, '_id': '5be5b9530c967b41c5024922', 'ts': 1541781843645, 'resource': 'votos', 'data': 70, 'channel': 'P1'}, {'owner': 'adrian_gs', 'wts': 1541781843645, '_id': '5be5b9530c967b41c5024923', 'ts': 1541781843645, 'resource': 'clics', 'data': 503, 'channel': 'P1'}, {'owner': 'adrian_gs', 'wts': 1541781843645, '_id': '5be5b9530c967b41c5024924', 'ts': 1541781843645, 'resource': 'fecha', 'data': '2018-09-11 08:44:03', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 08:46:03.631416 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 548
+NVotos: 73
+MongoDB:  5be5b9cb5f627d0a6a0cba74
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541781963960, 'ts': 1541781963960, 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', 'owner': 'adrian_gs', '_id': '5be5b9cb0c967b41c5024a54', 'resource': 'titulo', 'channel': 'P1'}, {'wts': 1541781963960, 'ts': 1541781963960, 'data': 73, 'owner': 'adrian_gs', '_id': '5be5b9cb0c967b41c5024a55', 'resource': 'votos', 'channel': 'P1'}, {'wts': 1541781963960, 'ts': 1541781963960, 'data': 548, 'owner': 'adrian_gs', '_id': '5be5b9cb0c967b41c5024a56', 'resource': 'clics', 'channel': 'P1'}, {'wts': 1541781963960, 'ts': 1541781963960, 'data': '2018-09-11 08:46:03', 'owner': 'adrian_gs', '_id': '5be5b9cb0c967b41c5024a57', 'resource': 'fecha', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 08:48:02.935580 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 605
+NVotos: 77
+MongoDB:  5be5ba425f627d0a740bdb4d
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5ba430c967b41c5024b06', 'channel': 'P1', 'ts': 1541782083243, 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', 'resource': 'titulo', 'wts': 1541782083243, 'owner': 'adrian_gs'}, {'_id': '5be5ba430c967b41c5024b07', 'channel': 'P1', 'ts': 1541782083243, 'data': 77, 'resource': 'votos', 'wts': 1541782083243, 'owner': 'adrian_gs'}, {'_id': '5be5ba430c967b41c5024b08', 'channel': 'P1', 'ts': 1541782083243, 'data': 605, 'resource': 'clics', 'wts': 1541782083243, 'owner': 'adrian_gs'}, {'_id': '5be5ba430c967b41c5024b09', 'channel': 'P1', 'ts': 1541782083243, 'data': '2018-09-11 08:48:02', 'resource': 'fecha', 'wts': 1541782083243, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 08:50:02.990938 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 662
+NVotos: 83
+MongoDB:  5be5baba5f627d0abc69f7e7
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541782203310, 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541782203310, 'resource': 'titulo', '_id': '5be5babb0c967b41c5024bda', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) '}, {'wts': 1541782203310, 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541782203310, 'resource': 'votos', '_id': '5be5babb0c967b41c5024bdb', 'data': 83}, {'wts': 1541782203310, 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541782203310, 'resource': 'clics', '_id': '5be5babb0c967b41c5024bdc', 'data': 662}, {'wts': 1541782203310, 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541782203310, 'resource': 'fecha', '_id': '5be5babb0c967b41c5024bdd', 'data': '2018-09-11 08:50:02'}] 
+
+
+[ 2018-11-09 08:52:03.081903 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 713
+NVotos: 84
+MongoDB:  5be5bb335f627d0b1cb79435
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5bb330c967b41c5024d06', 'ts': 1541782323401, 'wts': 1541782323401, 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) '}, {'resource': 'votos', 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5bb330c967b41c5024d07', 'ts': 1541782323401, 'wts': 1541782323401, 'data': 84}, {'resource': 'clics', 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5bb330c967b41c5024d08', 'ts': 1541782323401, 'wts': 1541782323401, 'data': 713}, {'resource': 'fecha', 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5bb330c967b41c5024d09', 'ts': 1541782323401, 'wts': 1541782323401, 'data': '2018-09-11 08:52:03'}] 
+
+
+[ 2018-11-09 08:54:03.144852 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 764
+NVotos: 91
+MongoDB:  5be5bbab5f627d0b47b5c141
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5bbab0c967b41c5024ddd', 'wts': 1541782443517, 'resource': 'titulo', 'channel': 'P1', 'owner': 'adrian_gs', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', 'ts': 1541782443517}, {'_id': '5be5bbab0c967b41c5024dde', 'wts': 1541782443517, 'resource': 'votos', 'channel': 'P1', 'owner': 'adrian_gs', 'data': 91, 'ts': 1541782443517}, {'_id': '5be5bbab0c967b41c5024ddf', 'wts': 1541782443517, 'resource': 'clics', 'channel': 'P1', 'owner': 'adrian_gs', 'data': 764, 'ts': 1541782443517}, {'_id': '5be5bbab0c967b41c5024de0', 'wts': 1541782443517, 'resource': 'fecha', 'channel': 'P1', 'owner': 'adrian_gs', 'data': '2018-09-11 08:54:03', 'ts': 1541782443517}] 
+
+
+[ 2018-11-09 08:56:08.325279 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 810
+NVotos: 93
+MongoDB:  5be5bc285f627d0b51425726
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541782573698, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5be5bc2d0c967b41c5024ec9', 'ts': 1541782573698, 'resource': 'titulo', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) '}, {'wts': 1541782573698, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5be5bc2d0c967b41c5024eca', 'ts': 1541782573698, 'resource': 'votos', 'data': 93}, {'wts': 1541782573698, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5be5bc2d0c967b41c5024ecb', 'ts': 1541782573698, 'resource': 'clics', 'data': 810}, {'wts': 1541782573698, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5be5bc2d0c967b41c5024ecc', 'ts': 1541782573698, 'resource': 'fecha', 'data': '2018-09-11 08:56:08'}] 
+
+
+[ 2018-11-09 08:58:03.437135 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 864
+NVotos: 94
+MongoDB:  5be5bc9b5f627d0b68d081c4
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', '_id': '5be5bc9c0c967b41c5024f69', 'ts': 1541782684869, 'channel': 'P1', 'owner': 'adrian_gs', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', 'wts': 1541782684869}, {'resource': 'votos', '_id': '5be5bc9c0c967b41c5024f6a', 'ts': 1541782684869, 'channel': 'P1', 'owner': 'adrian_gs', 'data': 94, 'wts': 1541782684869}, {'resource': 'clics', '_id': '5be5bc9c0c967b41c5024f6b', 'ts': 1541782684869, 'channel': 'P1', 'owner': 'adrian_gs', 'data': 864, 'wts': 1541782684869}, {'resource': 'fecha', '_id': '5be5bc9c0c967b41c5024f6c', 'ts': 1541782684869, 'channel': 'P1', 'owner': 'adrian_gs', 'data': '2018-09-11 08:58:03', 'wts': 1541782684869}] 
+
+
+[ 2018-11-09 09:00:03.644016 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 921
+NVotos: 95
+MongoDB:  5be5bd135f627d0b9d557b86
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', '_id': '5be5bd130c967b41c50250a7', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', 'channel': 'P1', 'ts': 1541782803955, 'resource': 'titulo', 'wts': 1541782803955}, {'owner': 'adrian_gs', '_id': '5be5bd130c967b41c50250a8', 'data': 95, 'channel': 'P1', 'ts': 1541782803955, 'resource': 'votos', 'wts': 1541782803955}, {'owner': 'adrian_gs', '_id': '5be5bd130c967b41c50250a9', 'data': 921, 'channel': 'P1', 'ts': 1541782803955, 'resource': 'clics', 'wts': 1541782803955}, {'owner': 'adrian_gs', '_id': '5be5bd130c967b41c50250aa', 'data': '2018-09-11 09:00:03', 'channel': 'P1', 'ts': 1541782803955, 'resource': 'fecha', 'wts': 1541782803955}] 
+
+
+[ 2018-11-09 09:02:02.912358 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 966
+NVotos: 100
+MongoDB:  5be5bd8a5f627d0bb9368f0b
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541782923232, 'owner': 'adrian_gs', 'resource': 'titulo', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', 'wts': 1541782923232, '_id': '5be5bd8b0c967b41c50251a7', 'channel': 'P1'}, {'ts': 1541782923232, 'owner': 'adrian_gs', 'resource': 'votos', 'data': 100, 'wts': 1541782923232, '_id': '5be5bd8b0c967b41c50251a8', 'channel': 'P1'}, {'ts': 1541782923232, 'owner': 'adrian_gs', 'resource': 'clics', 'data': 966, 'wts': 1541782923232, '_id': '5be5bd8b0c967b41c50251a9', 'channel': 'P1'}, {'ts': 1541782923232, 'owner': 'adrian_gs', 'resource': 'fecha', 'data': '2018-09-11 09:02:02', 'wts': 1541782923232, '_id': '5be5bd8b0c967b41c50251aa', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 09:04:02.976172 ]:
+Titulo: [' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ']
+N_Clics: 1022
+NVotos: 102
+MongoDB:  5be5be025f627d0bc32163ff
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5be030c967b41c502525d', 'channel': 'P1', 'data': ' Casos en los que la AN ha acusado de terrorismo y casos en los que no (hilo twitter) ', 'wts': 1541783043302, 'owner': 'adrian_gs', 'ts': 1541783043302, 'resource': 'titulo'}, {'_id': '5be5be030c967b41c502525e', 'channel': 'P1', 'data': 102, 'wts': 1541783043302, 'owner': 'adrian_gs', 'ts': 1541783043302, 'resource': 'votos'}, {'_id': '5be5be030c967b41c502525f', 'channel': 'P1', 'data': 1022, 'wts': 1541783043302, 'owner': 'adrian_gs', 'ts': 1541783043302, 'resource': 'clics'}, {'_id': '5be5be030c967b41c5025260', 'channel': 'P1', 'data': '2018-09-11 09:04:02', 'wts': 1541783043302, 'owner': 'adrian_gs', 'ts': 1541783043302, 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 09:06:03.070369 ]:
+Titulo: [' Comienza el Campeonato del Mundo de Ajedrez en Londres ']
+N_Clics: 51
+NVotos: 16
+MongoDB:  5be5be7b5f627d0bcddcd121
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5be7b0c967b41c502537b', 'channel': 'P1', 'ts': 1541783163396, 'data': ' Comienza el Campeonato del Mundo de Ajedrez en Londres ', 'resource': 'titulo', 'wts': 1541783163396, 'owner': 'adrian_gs'}, {'_id': '5be5be7b0c967b41c502537c', 'channel': 'P1', 'ts': 1541783163396, 'data': 16, 'resource': 'votos', 'wts': 1541783163396, 'owner': 'adrian_gs'}, {'_id': '5be5be7b0c967b41c502537d', 'channel': 'P1', 'ts': 1541783163396, 'data': 51, 'resource': 'clics', 'wts': 1541783163396, 'owner': 'adrian_gs'}, {'_id': '5be5be7b0c967b41c502537e', 'channel': 'P1', 'ts': 1541783163396, 'data': '2018-09-11 09:06:03', 'resource': 'fecha', 'wts': 1541783163396, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 09:08:03.572769 ]:
+Titulo: [' Comienza el Campeonato del Mundo de Ajedrez en Londres ']
+N_Clics: 68
+NVotos: 17
+MongoDB:  5be5bef35f627d0bdacfe64f
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Comienza el Campeonato del Mundo de Ajedrez en Londres ', 'resource': 'titulo', 'ts': 1541783283911, 'channel': 'P1', '_id': '5be5bef30c967b41c502543a', 'wts': 1541783283911, 'owner': 'adrian_gs'}, {'data': 17, 'resource': 'votos', 'ts': 1541783283911, 'channel': 'P1', '_id': '5be5bef30c967b41c502543b', 'wts': 1541783283911, 'owner': 'adrian_gs'}, {'data': 68, 'resource': 'clics', 'ts': 1541783283911, 'channel': 'P1', '_id': '5be5bef30c967b41c502543c', 'wts': 1541783283911, 'owner': 'adrian_gs'}, {'data': '2018-09-11 09:08:03', 'resource': 'fecha', 'ts': 1541783283911, 'channel': 'P1', '_id': '5be5bef30c967b41c502543d', 'wts': 1541783283911, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 09:10:04.049760 ]:
+Titulo: [' Comienza el Campeonato del Mundo de Ajedrez en Londres ']
+N_Clics: 82
+NVotos: 20
+MongoDB:  5be5bf6c5f627d0be5882249
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5bf6c0c967b41c5025576', 'ts': 1541783404439, 'wts': 1541783404439, 'data': ' Comienza el Campeonato del Mundo de Ajedrez en Londres ', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'titulo'}, {'_id': '5be5bf6c0c967b41c5025577', 'ts': 1541783404439, 'wts': 1541783404439, 'data': 20, 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'votos'}, {'_id': '5be5bf6c0c967b41c5025578', 'ts': 1541783404439, 'wts': 1541783404439, 'data': 82, 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'clics'}, {'_id': '5be5bf6c0c967b41c5025579', 'ts': 1541783404439, 'wts': 1541783404439, 'data': '2018-09-11 09:10:04', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 09:12:02.856075 ]:
+Titulo: [' Comienza el Campeonato del Mundo de Ajedrez en Londres ']
+N_Clics: 95
+NVotos: 23
+MongoDB:  5be5bfe25f627d0c056bc7c7
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5bfe30c967b41c5025645', 'data': ' Comienza el Campeonato del Mundo de Ajedrez en Londres ', 'channel': 'P1', 'resource': 'titulo', 'owner': 'adrian_gs', 'ts': 1541783523164, 'wts': 1541783523164}, {'_id': '5be5bfe30c967b41c5025646', 'data': 23, 'channel': 'P1', 'resource': 'votos', 'owner': 'adrian_gs', 'ts': 1541783523164, 'wts': 1541783523164}, {'_id': '5be5bfe30c967b41c5025647', 'data': 95, 'channel': 'P1', 'resource': 'clics', 'owner': 'adrian_gs', 'ts': 1541783523164, 'wts': 1541783523164}, {'_id': '5be5bfe30c967b41c5025648', 'data': '2018-09-11 09:12:02', 'channel': 'P1', 'resource': 'fecha', 'owner': 'adrian_gs', 'ts': 1541783523164, 'wts': 1541783523164}] 
+
+
+[ 2018-11-09 09:14:02.904339 ]:
+Titulo: [' Comienza el Campeonato del Mundo de Ajedrez en Londres ']
+N_Clics: 112
+NVotos: 26
+MongoDB:  5be5c05a5f627d0c1000831e
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'data': ' Comienza el Campeonato del Mundo de Ajedrez en Londres ', 'ts': 1541783643318, 'channel': 'P1', '_id': '5be5c05b0c967b41c5025702', 'wts': 1541783643318, 'owner': 'adrian_gs'}, {'resource': 'votos', 'data': 26, 'ts': 1541783643318, 'channel': 'P1', '_id': '5be5c05b0c967b41c5025703', 'wts': 1541783643318, 'owner': 'adrian_gs'}, {'resource': 'clics', 'data': 112, 'ts': 1541783643318, 'channel': 'P1', '_id': '5be5c05b0c967b41c5025704', 'wts': 1541783643318, 'owner': 'adrian_gs'}, {'resource': 'fecha', 'data': '2018-09-11 09:14:02', 'ts': 1541783643318, 'channel': 'P1', '_id': '5be5c05b0c967b41c5025705', 'wts': 1541783643318, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 09:16:03.171562 ]:
+Titulo: [' Comienza el Campeonato del Mundo de Ajedrez en Londres ']
+N_Clics: 126
+NVotos: 30
+MongoDB:  5be5c0d35f627d0c1a5a7e02
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541783763479, 'data': ' Comienza el Campeonato del Mundo de Ajedrez en Londres ', '_id': '5be5c0d30c967b41c5025822', 'ts': 1541783763479}, {'resource': 'votos', 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541783763479, 'data': 30, '_id': '5be5c0d30c967b41c5025823', 'ts': 1541783763479}, {'resource': 'clics', 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541783763479, 'data': 126, '_id': '5be5c0d30c967b41c5025824', 'ts': 1541783763479}, {'resource': 'fecha', 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541783763479, 'data': '2018-09-11 09:16:03', '_id': '5be5c0d30c967b41c5025825', 'ts': 1541783763479}] 
+
+
+[ 2018-11-09 09:18:08.623217 ]:
+Titulo: [' Comienza el Campeonato del Mundo de Ajedrez en Londres ']
+N_Clics: 142
+NVotos: 31
+MongoDB:  5be5c1505f627d0c2f0032ad
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'data': ' Comienza el Campeonato del Mundo de Ajedrez en Londres ', 'resource': 'titulo', 'ts': 1541783888925, 'channel': 'P1', 'wts': 1541783888925, '_id': '5be5c1500c967b41c5025906'}, {'owner': 'adrian_gs', 'data': 31, 'resource': 'votos', 'ts': 1541783888925, 'channel': 'P1', 'wts': 1541783888925, '_id': '5be5c1500c967b41c5025907'}, {'owner': 'adrian_gs', 'data': 142, 'resource': 'clics', 'ts': 1541783888925, 'channel': 'P1', 'wts': 1541783888925, '_id': '5be5c1500c967b41c5025908'}, {'owner': 'adrian_gs', 'data': '2018-09-11 09:18:08', 'resource': 'fecha', 'ts': 1541783888925, 'channel': 'P1', 'wts': 1541783888925, '_id': '5be5c1500c967b41c5025909'}] 
+
+
+[ 2018-11-09 09:20:03.270626 ]:
+Titulo: [' Comienza el Campeonato del Mundo de Ajedrez en Londres ']
+N_Clics: 160
+NVotos: 34
+MongoDB:  5be5c1c35f627d0c3c9356ab
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5c1c90c967b41c5025a14', 'wts': 1541784009595, 'owner': 'adrian_gs', 'resource': 'titulo', 'data': ' Comienza el Campeonato del Mundo de Ajedrez en Londres ', 'ts': 1541784009595, 'channel': 'P1'}, {'_id': '5be5c1c90c967b41c5025a15', 'wts': 1541784009595, 'owner': 'adrian_gs', 'resource': 'votos', 'data': 34, 'ts': 1541784009595, 'channel': 'P1'}, {'_id': '5be5c1c90c967b41c5025a16', 'wts': 1541784009595, 'owner': 'adrian_gs', 'resource': 'clics', 'data': 160, 'ts': 1541784009595, 'channel': 'P1'}, {'_id': '5be5c1c90c967b41c5025a17', 'wts': 1541784009595, 'owner': 'adrian_gs', 'resource': 'fecha', 'data': '2018-09-11 09:20:03', 'ts': 1541784009595, 'channel': 'P1'}] 
+
+
+[ 2018-11-09 09:22:03.207398 ]:
+Titulo: [' Comienza el Campeonato del Mundo de Ajedrez en Londres ']
+N_Clics: 177
+NVotos: 36
+MongoDB:  5be5c23b5f627d0c491a3fbb
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', '_id': '5be5c23b0c967b41c5025aca', 'resource': 'titulo', 'owner': 'adrian_gs', 'ts': 1541784123557, 'wts': 1541784123557, 'data': ' Comienza el Campeonato del Mundo de Ajedrez en Londres '}, {'channel': 'P1', '_id': '5be5c23b0c967b41c5025acb', 'resource': 'votos', 'owner': 'adrian_gs', 'ts': 1541784123557, 'wts': 1541784123557, 'data': 36}, {'channel': 'P1', '_id': '5be5c23b0c967b41c5025acc', 'resource': 'clics', 'owner': 'adrian_gs', 'ts': 1541784123557, 'wts': 1541784123557, 'data': 177}, {'channel': 'P1', '_id': '5be5c23b0c967b41c5025acd', 'resource': 'fecha', 'owner': 'adrian_gs', 'ts': 1541784123557, 'wts': 1541784123557, 'data': '2018-09-11 09:22:03'}] 
+
+
+[ 2018-11-09 09:24:03.398261 ]:
+Titulo: [' Comienza el Campeonato del Mundo de Ajedrez en Londres ']
+N_Clics: 187
+NVotos: 40
+MongoDB:  5be5c2b35f627d0c710c1d90
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'data': ' Comienza el Campeonato del Mundo de Ajedrez en Londres ', 'owner': 'adrian_gs', 'ts': 1541784243691, 'wts': 1541784243691, 'channel': 'P1', '_id': '5be5c2b30c967b41c5025bc9'}, {'resource': 'votos', 'data': 40, 'owner': 'adrian_gs', 'ts': 1541784243691, 'wts': 1541784243691, 'channel': 'P1', '_id': '5be5c2b30c967b41c5025bca'}, {'resource': 'clics', 'data': 187, 'owner': 'adrian_gs', 'ts': 1541784243691, 'wts': 1541784243691, 'channel': 'P1', '_id': '5be5c2b30c967b41c5025bcb'}, {'resource': 'fecha', 'data': '2018-09-11 09:24:03', 'owner': 'adrian_gs', 'ts': 1541784243691, 'wts': 1541784243691, 'channel': 'P1', '_id': '5be5c2b30c967b41c5025bcc'}] 
+
+
+[ 2018-11-09 09:26:03.358369 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 81
+NVotos: 58
+MongoDB:  5be5c32b5f627d0c7b737f2e
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541784363666, 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5c32b0c967b41c5025cbe', 'ts': 1541784363666, 'resource': 'titulo'}, {'wts': 1541784363666, 'data': 58, 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5c32b0c967b41c5025cbf', 'ts': 1541784363666, 'resource': 'votos'}, {'wts': 1541784363666, 'data': 81, 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5c32b0c967b41c5025cc0', 'ts': 1541784363666, 'resource': 'clics'}, {'wts': 1541784363666, 'data': '2018-09-11 09:26:03', 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5c32b0c967b41c5025cc1', 'ts': 1541784363666, 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 09:28:03.922683 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 100
+NVotos: 65
+MongoDB:  5be5c3a35f627d0c99e5e3f0
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5c3a40c967b41c5025d6c', 'channel': 'P1', 'resource': 'titulo', 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'wts': 1541784484207, 'ts': 1541784484207, 'owner': 'adrian_gs'}, {'_id': '5be5c3a40c967b41c5025d6d', 'channel': 'P1', 'resource': 'votos', 'data': 65, 'wts': 1541784484207, 'ts': 1541784484207, 'owner': 'adrian_gs'}, {'_id': '5be5c3a40c967b41c5025d6e', 'channel': 'P1', 'resource': 'clics', 'data': 100, 'wts': 1541784484207, 'ts': 1541784484207, 'owner': 'adrian_gs'}, {'_id': '5be5c3a40c967b41c5025d6f', 'channel': 'P1', 'resource': 'fecha', 'data': '2018-09-11 09:28:03', 'wts': 1541784484207, 'ts': 1541784484207, 'owner': 'adrian_gs'}] 
+
+
