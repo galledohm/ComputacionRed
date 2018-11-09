@@ -110,3 +110,383 @@ MongoDB:  5be4d14a5f627d303974843d
 Beebotte:  [{'wts': 1541722442460, 'ts': 1541722442460, 'owner': 'adrian_gs', 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'channel': 'P1', '_id': '5be4d14a0c967b41c5007fe6', 'resource': 'titulo'}] 
 
 
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 365
+NVotos: 36
+MongoDB:  5be4d1c25f627d3052096d8d
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Las brujas de Zugarramurdi no eran brujas ', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'titulo', '_id': '5be4d1c30c967b41c50080f3', 'ts': 1541722563184, 'wts': 1541722563184}] 
+
+
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 370
+NVotos: 37
+MongoDB:  5be4d23a5f627d307a8189ed
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', '_id': '5be4d23b0c967b41c50081c2', 'owner': 'adrian_gs', 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'resource': 'titulo', 'wts': 1541722683378, 'ts': 1541722683378}] 
+
+
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 386
+NVotos: 37
+MongoDB:  5be4d2b35f627d308da46e93
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be4d2b30c967b41c50082ac', 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'resource': 'titulo', 'wts': 1541722803561, 'owner': 'adrian_gs', 'ts': 1541722803561, 'channel': 'P1'}] 
+
+
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 397
+NVotos: 39
+MongoDB:  5be4d32a5f627d3097da5565
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be4d32a0c967b41c5008383', 'channel': 'P1', 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'wts': 1541722922706, 'ts': 1541722922706, 'resource': 'titulo', 'owner': 'adrian_gs'}] 
+
+
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 406
+NVotos: 40
+MongoDB:  5be4d3a35f627d30ab156dde
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'wts': 1541723043670, 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'ts': 1541723043670, 'channel': 'P1', '_id': '5be4d3a30c967b41c5008465', 'owner': 'adrian_gs'}] 
+
+
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 450
+NVotos: 44
+MongoDB:  5be4d6ea5f627d315255a678
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be4d6ea0c967b41c5008ada', 'resource': 'titulo', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541723882544, 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'wts': 1541723882544}, {'_id': '5be4d6ea0c967b41c5008adb', 'resource': 'votos', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541723882544, 'data': 44, 'wts': 1541723882544}, {'_id': '5be4d6ea0c967b41c5008adc', 'resource': 'clics', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541723882544, 'data': 450, 'wts': 1541723882544}, {'_id': '5be4d6ea0c967b41c5008add', 'resource': 'fecha', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541723882544, 'data': '2018-08-11 16:38:02', 'wts': 1541723882544}] 
+
+
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 456
+NVotos: 44
+MongoDB:  5be4d7625f627d316f6ff4a0
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Las brujas de Zugarramurdi no eran brujas ', '_id': '5be4d7630c967b41c5008bb5', 'ts': 1541724003289, 'channel': 'P1', 'resource': 'titulo', 'owner': 'adrian_gs', 'wts': 1541724003289}, {'data': 44, '_id': '5be4d7630c967b41c5008bb6', 'ts': 1541724003289, 'channel': 'P1', 'resource': 'votos', 'owner': 'adrian_gs', 'wts': 1541724003289}, {'data': 456, '_id': '5be4d7630c967b41c5008bb7', 'ts': 1541724003289, 'channel': 'P1', 'resource': 'clics', 'owner': 'adrian_gs', 'wts': 1541724003289}, {'data': '2018-08-11 16:40:02', '_id': '5be4d7630c967b41c5008bb8', 'ts': 1541724003289, 'channel': 'P1', 'resource': 'fecha', 'owner': 'adrian_gs', 'wts': 1541724003289}] 
+
+
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 464
+NVotos: 44
+MongoDB:  5be4d7db5f627d31948d4f02
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Las brujas de Zugarramurdi no eran brujas ', 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541724123656, 'resource': 'titulo', '_id': '5be4d7db0c967b41c5008d1d', 'ts': 1541724123656}, {'data': 44, 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541724123656, 'resource': 'votos', '_id': '5be4d7db0c967b41c5008d1e', 'ts': 1541724123656}, {'data': 464, 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541724123656, 'resource': 'clics', '_id': '5be4d7db0c967b41c5008d1f', 'ts': 1541724123656}, {'data': '2018-08-11 16:42:03', 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541724123656, 'resource': 'fecha', '_id': '5be4d7db0c967b41c5008d20', 'ts': 1541724123656}] 
+
+
+[ 2018-11-08 16:44:02.246603 ]:
+
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 471
+NVotos: 44
+MongoDB:  5be4d8525f627d31b14c445e
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'channel': 'P1', '_id': '5be4d8520c967b41c5008df8', 'ts': 1541724242725, 'owner': 'adrian_gs', 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'wts': 1541724242725}, {'resource': 'votos', 'channel': 'P1', '_id': '5be4d8520c967b41c5008df9', 'ts': 1541724242725, 'owner': 'adrian_gs', 'data': 44, 'wts': 1541724242725}, {'resource': 'clics', 'channel': 'P1', '_id': '5be4d8520c967b41c5008dfa', 'ts': 1541724242725, 'owner': 'adrian_gs', 'data': 471, 'wts': 1541724242725}, {'resource': 'fecha', 'channel': 'P1', '_id': '5be4d8520c967b41c5008dfb', 'ts': 1541724242725, 'owner': 'adrian_gs', 'data': '2018-08-11 16:44:02', 'wts': 1541724242725}] 
+
+
+[ 2018-11-08 16:46:02.359106 ]:
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 476
+NVotos: 44
+MongoDB:  5be4d8ca5f627d31e3ef0de9
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541724362857, 'resource': 'titulo', 'ts': 1541724362857, 'channel': 'P1', 'owner': 'adrian_gs', 'data': ' Las brujas de Zugarramurdi no eran brujas ', '_id': '5be4d8ca0c967b41c5008f41'}, {'wts': 1541724362857, 'resource': 'votos', 'ts': 1541724362857, 'channel': 'P1', 'owner': 'adrian_gs', 'data': 44, '_id': '5be4d8ca0c967b41c5008f42'}, {'wts': 1541724362857, 'resource': 'clics', 'ts': 1541724362857, 'channel': 'P1', 'owner': 'adrian_gs', 'data': 476, '_id': '5be4d8ca0c967b41c5008f43'}, {'wts': 1541724362857, 'resource': 'fecha', 'ts': 1541724362857, 'channel': 'P1', 'owner': 'adrian_gs', 'data': '2018-08-11 16:46:02', '_id': '5be4d8ca0c967b41c5008f44'}] 
+
+
+[ 2018-11-08 16:48:02.470582 ]:
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 484
+NVotos: 44
+MongoDB:  5be4d9425f627d31f709ff5f
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'owner': 'adrian_gs', '_id': '5be4d9420c967b41c5009007', 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'ts': 1541724482937, 'channel': 'P1', 'wts': 1541724482937}, {'resource': 'votos', 'owner': 'adrian_gs', '_id': '5be4d9420c967b41c5009008', 'data': 44, 'ts': 1541724482937, 'channel': 'P1', 'wts': 1541724482937}, {'resource': 'clics', 'owner': 'adrian_gs', '_id': '5be4d9420c967b41c5009009', 'data': 484, 'ts': 1541724482937, 'channel': 'P1', 'wts': 1541724482937}, {'resource': 'fecha', 'owner': 'adrian_gs', '_id': '5be4d9420c967b41c500900a', 'data': '2018-08-11 16:48:02', 'ts': 1541724482937, 'channel': 'P1', 'wts': 1541724482937}] 
+
+
+[ 2018-11-08 16:50:02.603108 ]:
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 490
+NVotos: 45
+MongoDB:  5be4d9ba5f627d32015b8e2c
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be4d9bb0c967b41c50090d5', 'ts': 1541724603000, 'wts': 1541724603000, 'resource': 'titulo', 'owner': 'adrian_gs', 'channel': 'P1', 'data': ' Las brujas de Zugarramurdi no eran brujas '}, {'_id': '5be4d9bb0c967b41c50090d6', 'ts': 1541724603000, 'wts': 1541724603000, 'resource': 'votos', 'owner': 'adrian_gs', 'channel': 'P1', 'data': 45}, {'_id': '5be4d9bb0c967b41c50090d7', 'ts': 1541724603000, 'wts': 1541724603000, 'resource': 'clics', 'owner': 'adrian_gs', 'channel': 'P1', 'data': 490}, {'_id': '5be4d9bb0c967b41c50090d8', 'ts': 1541724603000, 'wts': 1541724603000, 'resource': 'fecha', 'owner': 'adrian_gs', 'channel': 'P1', 'data': '2018-08-11 16:50:02'}] 
+
+
+[ 2018-11-08 16:52:02.215628 ]:
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 492
+NVotos: 45
+MongoDB:  5be4da325f627d320ba9c0cd
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', '_id': '5be4da320c967b41c5009200', 'owner': 'adrian_gs', 'wts': 1541724722566, 'channel': 'P1', 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'ts': 1541724722566}, {'resource': 'votos', '_id': '5be4da320c967b41c5009201', 'owner': 'adrian_gs', 'wts': 1541724722566, 'channel': 'P1', 'data': 45, 'ts': 1541724722566}, {'resource': 'clics', '_id': '5be4da320c967b41c5009202', 'owner': 'adrian_gs', 'wts': 1541724722566, 'channel': 'P1', 'data': 492, 'ts': 1541724722566}, {'resource': 'fecha', '_id': '5be4da320c967b41c5009203', 'owner': 'adrian_gs', 'wts': 1541724722566, 'channel': 'P1', 'data': '2018-08-11 16:52:02', 'ts': 1541724722566}] 
+
+
+[ 2018-11-08 16:54:02.935523 ]:
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 496
+NVotos: 45
+MongoDB:  5be4daaa5f627d321557f39c
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', '_id': '5be4daab0c967b41c50092a6', 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'wts': 1541724843346, 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541724843346}, {'resource': 'votos', '_id': '5be4daab0c967b41c50092a7', 'data': 45, 'wts': 1541724843346, 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541724843346}, {'resource': 'clics', '_id': '5be4daab0c967b41c50092a8', 'data': 496, 'wts': 1541724843346, 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541724843346}, {'resource': 'fecha', '_id': '5be4daab0c967b41c50092a9', 'data': '2018-08-11 16:54:02', 'wts': 1541724843346, 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541724843346}] 
+
+
+[ 2018-11-08 16:56:03.237747 ]:
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 498
+NVotos: 45
+MongoDB:  5be4db235f627d321fa3b6b8
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Las brujas de Zugarramurdi no eran brujas ', 'ts': 1541724963684, 'channel': 'P1', '_id': '5be4db230c967b41c50093a4', 'wts': 1541724963684, 'owner': 'adrian_gs', 'resource': 'titulo'}, {'data': 45, 'ts': 1541724963684, 'channel': 'P1', '_id': '5be4db230c967b41c50093a5', 'wts': 1541724963684, 'owner': 'adrian_gs', 'resource': 'votos'}, {'data': 498, 'ts': 1541724963684, 'channel': 'P1', '_id': '5be4db230c967b41c50093a6', 'wts': 1541724963684, 'owner': 'adrian_gs', 'resource': 'clics'}, {'data': '2018-08-11 16:56:03', 'ts': 1541724963684, 'channel': 'P1', '_id': '5be4db230c967b41c50093a7', 'wts': 1541724963684, 'owner': 'adrian_gs', 'resource': 'fecha'}] 
+
+
+[ 2018-11-08 16:58:02.321481 ]:
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 505
+NVotos: 45
+MongoDB:  5be4db9a5f627d3229489be5
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541725082741, 'resource': 'titulo', 'ts': 1541725082741, 'channel': 'P1', '_id': '5be4db9a0c967b41c5009466', 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'owner': 'adrian_gs'}, {'wts': 1541725082741, 'resource': 'votos', 'ts': 1541725082741, 'channel': 'P1', '_id': '5be4db9a0c967b41c5009467', 'data': 45, 'owner': 'adrian_gs'}, {'wts': 1541725082741, 'resource': 'clics', 'ts': 1541725082741, 'channel': 'P1', '_id': '5be4db9a0c967b41c5009468', 'data': 505, 'owner': 'adrian_gs'}, {'wts': 1541725082741, 'resource': 'fecha', 'ts': 1541725082741, 'channel': 'P1', '_id': '5be4db9a0c967b41c5009469', 'data': '2018-08-11 16:58:02', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-08 17:00:02.767835 ]:
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 508
+NVotos: 46
+MongoDB:  5be4dc125f627d3233294f9c
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Las brujas de Zugarramurdi no eran brujas ', 'wts': 1541725203285, 'ts': 1541725203285, '_id': '5be4dc130c967b41c5009565', 'channel': 'P1', 'resource': 'titulo', 'owner': 'adrian_gs'}, {'data': 46, 'wts': 1541725203285, 'ts': 1541725203285, '_id': '5be4dc130c967b41c5009566', 'channel': 'P1', 'resource': 'votos', 'owner': 'adrian_gs'}, {'data': 508, 'wts': 1541725203285, 'ts': 1541725203285, '_id': '5be4dc130c967b41c5009567', 'channel': 'P1', 'resource': 'clics', 'owner': 'adrian_gs'}, {'data': '2018-08-11 17:00:02', 'wts': 1541725203285, 'ts': 1541725203285, '_id': '5be4dc130c967b41c5009568', 'channel': 'P1', 'resource': 'fecha', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-08 17:02:03.484125 ]:
+Titulo: [' Las brujas de Zugarramurdi no eran brujas ']
+N_Clics: 513
+NVotos: 46
+MongoDB:  5be4dc8b5f627d3358085dd2
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be4dc8b0c967b41c5009682', 'resource': 'titulo', 'owner': 'adrian_gs', 'ts': 1541725323986, 'wts': 1541725323986, 'data': ' Las brujas de Zugarramurdi no eran brujas ', 'channel': 'P1'}, {'_id': '5be4dc8b0c967b41c5009683', 'resource': 'votos', 'owner': 'adrian_gs', 'ts': 1541725323986, 'wts': 1541725323986, 'data': 46, 'channel': 'P1'}, {'_id': '5be4dc8b0c967b41c5009684', 'resource': 'clics', 'owner': 'adrian_gs', 'ts': 1541725323986, 'wts': 1541725323986, 'data': 513, 'channel': 'P1'}, {'_id': '5be4dc8b0c967b41c5009685', 'resource': 'fecha', 'owner': 'adrian_gs', 'ts': 1541725323986, 'wts': 1541725323986, 'data': '2018-08-11 17:02:03', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 06:30:03.593832 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3282
+NVotos: 101
+MongoDB:  5be599eb5f627d03d9587f48
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'resource': 'titulo', '_id': '5be599eb0c967b41c5020861', 'wts': 1541773803906, 'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'ts': 1541773803906, 'owner': 'adrian_gs'}, {'channel': 'P1', 'resource': 'votos', '_id': '5be599eb0c967b41c5020862', 'wts': 1541773803906, 'data': 101, 'ts': 1541773803906, 'owner': 'adrian_gs'}, {'channel': 'P1', 'resource': 'clics', '_id': '5be599eb0c967b41c5020863', 'wts': 1541773803906, 'data': 3282, 'ts': 1541773803906, 'owner': 'adrian_gs'}, {'channel': 'P1', 'resource': 'fecha', '_id': '5be599eb0c967b41c5020864', 'wts': 1541773803906, 'data': '2018-09-11 06:30:03', 'ts': 1541773803906, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 06:32:02.184233 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3307
+NVotos: 102
+MongoDB:  5be59a625f627d04267a0bdb
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541773922462, '_id': '5be59a620c967b41c5020988', 'resource': 'titulo', 'ts': 1541773922462}, {'data': 102, 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541773922462, '_id': '5be59a620c967b41c5020989', 'resource': 'votos', 'ts': 1541773922462}, {'data': 3307, 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541773922462, '_id': '5be59a620c967b41c502098a', 'resource': 'clics', 'ts': 1541773922462}, {'data': '2018-09-11 06:32:02', 'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1541773922462, '_id': '5be59a620c967b41c502098b', 'resource': 'fecha', 'ts': 1541773922462}] 
+
+
+[ 2018-11-09 06:34:02.721806 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3335
+NVotos: 104
+MongoDB:  5be59ada5f627d045e9575fd
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'resource': 'titulo', 'ts': 1541774043029, '_id': '5be59adb0c967b41c5020a6c', 'wts': 1541774043029, 'channel': 'P1', 'owner': 'adrian_gs'}, {'data': 104, 'resource': 'votos', 'ts': 1541774043029, '_id': '5be59adb0c967b41c5020a6d', 'wts': 1541774043029, 'channel': 'P1', 'owner': 'adrian_gs'}, {'data': 3335, 'resource': 'clics', 'ts': 1541774043029, '_id': '5be59adb0c967b41c5020a6e', 'wts': 1541774043029, 'channel': 'P1', 'owner': 'adrian_gs'}, {'data': '2018-09-11 06:34:02', 'resource': 'fecha', 'ts': 1541774043029, '_id': '5be59adb0c967b41c5020a6f', 'wts': 1541774043029, 'channel': 'P1', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 06:36:02.236272 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3369
+NVotos: 104
+MongoDB:  5be59b525f627d0478e96277
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'resource': 'titulo', 'channel': 'P1', 'wts': 1541774162538, 'ts': 1541774162538, 'owner': 'adrian_gs', '_id': '5be59b520c967b41c5020b62'}, {'data': 104, 'resource': 'votos', 'channel': 'P1', 'wts': 1541774162538, 'ts': 1541774162538, 'owner': 'adrian_gs', '_id': '5be59b520c967b41c5020b63'}, {'data': 3369, 'resource': 'clics', 'channel': 'P1', 'wts': 1541774162538, 'ts': 1541774162538, 'owner': 'adrian_gs', '_id': '5be59b520c967b41c5020b64'}, {'data': '2018-09-11 06:36:02', 'resource': 'fecha', 'channel': 'P1', 'wts': 1541774162538, 'ts': 1541774162538, 'owner': 'adrian_gs', '_id': '5be59b520c967b41c5020b65'}] 
+
+
+[ 2018-11-09 06:38:03.299647 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3403
+NVotos: 106
+MongoDB:  5be59bcb5f627d048bbd29fb
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be59bcb0c967b41c5020c5d', 'owner': 'adrian_gs', 'ts': 1541774283571, 'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'wts': 1541774283571, 'resource': 'titulo', 'channel': 'P1'}, {'_id': '5be59bcb0c967b41c5020c5e', 'owner': 'adrian_gs', 'ts': 1541774283571, 'data': 106, 'wts': 1541774283571, 'resource': 'votos', 'channel': 'P1'}, {'_id': '5be59bcb0c967b41c5020c5f', 'owner': 'adrian_gs', 'ts': 1541774283571, 'data': 3403, 'wts': 1541774283571, 'resource': 'clics', 'channel': 'P1'}, {'_id': '5be59bcb0c967b41c5020c60', 'owner': 'adrian_gs', 'ts': 1541774283571, 'data': '2018-09-11 06:38:03', 'wts': 1541774283571, 'resource': 'fecha', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 06:40:02.856629 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3415
+NVotos: 108
+MongoDB:  5be59c425f627d04c5d967d1
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'channel': 'P1', 'wts': 1541774403258, '_id': '5be59c430c967b41c5020deb', 'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'ts': 1541774403258, 'owner': 'adrian_gs'}, {'resource': 'votos', 'channel': 'P1', 'wts': 1541774403258, '_id': '5be59c430c967b41c5020dec', 'data': 108, 'ts': 1541774403258, 'owner': 'adrian_gs'}, {'resource': 'clics', 'channel': 'P1', 'wts': 1541774403258, '_id': '5be59c430c967b41c5020ded', 'data': 3415, 'ts': 1541774403258, 'owner': 'adrian_gs'}, {'resource': 'fecha', 'channel': 'P1', 'wts': 1541774403258, '_id': '5be59c430c967b41c5020dee', 'data': '2018-09-11 06:40:02', 'ts': 1541774403258, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 06:42:02.553558 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3442
+NVotos: 110
+MongoDB:  5be59cba5f627d04dfb6fc88
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541774522852, 'resource': 'titulo', 'channel': 'P1', 'wts': 1541774522852, 'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'owner': 'adrian_gs', '_id': '5be59cba0c967b41c5020ed1'}, {'ts': 1541774522852, 'resource': 'votos', 'channel': 'P1', 'wts': 1541774522852, 'data': 110, 'owner': 'adrian_gs', '_id': '5be59cba0c967b41c5020ed2'}, {'ts': 1541774522852, 'resource': 'clics', 'channel': 'P1', 'wts': 1541774522852, 'data': 3442, 'owner': 'adrian_gs', '_id': '5be59cba0c967b41c5020ed3'}, {'ts': 1541774522852, 'resource': 'fecha', 'channel': 'P1', 'wts': 1541774522852, 'data': '2018-09-11 06:42:02', 'owner': 'adrian_gs', '_id': '5be59cba0c967b41c5020ed4'}] 
+
+
+[ 2018-11-09 06:44:02.085242 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3472
+NVotos: 112
+MongoDB:  5be59d325f627d0506e77bc5
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541774642379, 'channel': 'P1', 'wts': 1541774642379, 'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'resource': 'titulo', '_id': '5be59d320c967b41c5020fac', 'owner': 'adrian_gs'}, {'ts': 1541774642379, 'channel': 'P1', 'wts': 1541774642379, 'data': 112, 'resource': 'votos', '_id': '5be59d320c967b41c5020fad', 'owner': 'adrian_gs'}, {'ts': 1541774642379, 'channel': 'P1', 'wts': 1541774642379, 'data': 3472, 'resource': 'clics', '_id': '5be59d320c967b41c5020fae', 'owner': 'adrian_gs'}, {'ts': 1541774642379, 'channel': 'P1', 'wts': 1541774642379, 'data': '2018-09-11 06:44:02', 'resource': 'fecha', '_id': '5be59d320c967b41c5020faf', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 06:46:07.594459 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3493
+NVotos: 114
+MongoDB:  5be59daf5f627d05416bb57d
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', '_id': '5be59daf0c967b41c50210f1', 'owner': 'adrian_gs', 'ts': 1541774767898, 'resource': 'titulo', 'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'wts': 1541774767898}, {'channel': 'P1', '_id': '5be59daf0c967b41c50210f2', 'owner': 'adrian_gs', 'ts': 1541774767898, 'resource': 'votos', 'data': 114, 'wts': 1541774767898}, {'channel': 'P1', '_id': '5be59daf0c967b41c50210f3', 'owner': 'adrian_gs', 'ts': 1541774767898, 'resource': 'clics', 'data': 3493, 'wts': 1541774767898}, {'channel': 'P1', '_id': '5be59daf0c967b41c50210f4', 'owner': 'adrian_gs', 'ts': 1541774767898, 'resource': 'fecha', 'data': '2018-09-11 06:46:07', 'wts': 1541774767898}] 
+
+
+[ 2018-11-09 06:48:02.275829 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3516
+NVotos: 114
+MongoDB:  5be59e225f627d05581dc566
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'ts': 1541774882586, 'resource': 'titulo', 'owner': 'adrian_gs', 'wts': 1541774882586, '_id': '5be59e220c967b41c502119e', 'channel': 'P1'}, {'data': 114, 'ts': 1541774882586, 'resource': 'votos', 'owner': 'adrian_gs', 'wts': 1541774882586, '_id': '5be59e220c967b41c502119f', 'channel': 'P1'}, {'data': 3516, 'ts': 1541774882586, 'resource': 'clics', 'owner': 'adrian_gs', 'wts': 1541774882586, '_id': '5be59e220c967b41c50211a0', 'channel': 'P1'}, {'data': '2018-09-11 06:48:02', 'ts': 1541774882586, 'resource': 'fecha', 'owner': 'adrian_gs', 'wts': 1541774882586, '_id': '5be59e220c967b41c50211a1', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 06:50:03.216795 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3546
+NVotos: 116
+MongoDB:  5be59e9b5f627d057fbac41d
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'channel': 'P1', '_id': '5be59e9b0c967b41c502129f', 'wts': 1541775003539, 'ts': 1541775003539, 'resource': 'titulo', 'owner': 'adrian_gs'}, {'data': 116, 'channel': 'P1', '_id': '5be59e9b0c967b41c50212a0', 'wts': 1541775003539, 'ts': 1541775003539, 'resource': 'votos', 'owner': 'adrian_gs'}, {'data': 3546, 'channel': 'P1', '_id': '5be59e9b0c967b41c50212a1', 'wts': 1541775003539, 'ts': 1541775003539, 'resource': 'clics', 'owner': 'adrian_gs'}, {'data': '2018-09-11 06:50:03', 'channel': 'P1', '_id': '5be59e9b0c967b41c50212a2', 'wts': 1541775003539, 'ts': 1541775003539, 'resource': 'fecha', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 06:52:02.746815 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3574
+NVotos: 117
+MongoDB:  5be59f125f627d058983d631
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'ts': 1541775123075, 'resource': 'titulo', 'channel': 'P1', 'wts': 1541775123075, 'owner': 'adrian_gs', '_id': '5be59f130c967b41c50213e2'}, {'data': 117, 'ts': 1541775123075, 'resource': 'votos', 'channel': 'P1', 'wts': 1541775123075, 'owner': 'adrian_gs', '_id': '5be59f130c967b41c50213e3'}, {'data': 3574, 'ts': 1541775123075, 'resource': 'clics', 'channel': 'P1', 'wts': 1541775123075, 'owner': 'adrian_gs', '_id': '5be59f130c967b41c50213e4'}, {'data': '2018-09-11 06:52:02', 'ts': 1541775123075, 'resource': 'fecha', 'channel': 'P1', 'wts': 1541775123075, 'owner': 'adrian_gs', '_id': '5be59f130c967b41c50213e5'}] 
+
+
+[ 2018-11-09 06:54:02.775388 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3608
+NVotos: 118
+MongoDB:  5be59f8a5f627d05b88ed099
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be59f8b0c967b41c50214b5', 'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'resource': 'titulo', 'channel': 'P1', 'ts': 1541775243115, 'wts': 1541775243115, 'owner': 'adrian_gs'}, {'_id': '5be59f8b0c967b41c50214b6', 'data': 118, 'resource': 'votos', 'channel': 'P1', 'ts': 1541775243115, 'wts': 1541775243115, 'owner': 'adrian_gs'}, {'_id': '5be59f8b0c967b41c50214b7', 'data': 3608, 'resource': 'clics', 'channel': 'P1', 'ts': 1541775243115, 'wts': 1541775243115, 'owner': 'adrian_gs'}, {'_id': '5be59f8b0c967b41c50214b8', 'data': '2018-09-11 06:54:02', 'resource': 'fecha', 'channel': 'P1', 'ts': 1541775243115, 'wts': 1541775243115, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 06:56:02.325461 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3643
+NVotos: 119
+MongoDB:  5be5a0025f627d05dc5b8ec7
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5a0020c967b41c502159d', 'ts': 1541775362797, 'wts': 1541775362797, 'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'titulo'}, {'_id': '5be5a0020c967b41c502159e', 'ts': 1541775362797, 'wts': 1541775362797, 'data': 119, 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'votos'}, {'_id': '5be5a0020c967b41c502159f', 'ts': 1541775362797, 'wts': 1541775362797, 'data': 3643, 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'clics'}, {'_id': '5be5a0020c967b41c50215a0', 'ts': 1541775362797, 'wts': 1541775362797, 'data': '2018-09-11 06:56:02', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 06:58:03.237812 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3665
+NVotos: 120
+MongoDB:  5be5a07b5f627d05f8b4c299
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541775483546, 'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'ts': 1541775483546, 'resource': 'titulo', 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5a07b0c967b41c502165e'}, {'wts': 1541775483546, 'data': 120, 'ts': 1541775483546, 'resource': 'votos', 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5a07b0c967b41c502165f'}, {'wts': 1541775483546, 'data': 3665, 'ts': 1541775483546, 'resource': 'clics', 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5a07b0c967b41c5021660'}, {'wts': 1541775483546, 'data': '2018-09-11 06:58:03', 'ts': 1541775483546, 'resource': 'fecha', 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5be5a07b0c967b41c5021661'}] 
+
+
+[ 2018-11-09 07:00:03.463752 ]:
+Titulo: [' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ']
+N_Clics: 3691
+NVotos: 123
+MongoDB:  5be5a0f35f627d0620d9a224
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541775603780, 'data': ' Cómo los arqueólogos encontraron el origen de la leyenda del rey Midas, que convertía en oro todo lo que tocaba ', 'owner': 'adrian_gs', 'ts': 1541775603780, 'channel': 'P1', 'resource': 'titulo', '_id': '5be5a0f30c967b41c50217ae'}, {'wts': 1541775603780, 'data': 123, 'owner': 'adrian_gs', 'ts': 1541775603780, 'channel': 'P1', 'resource': 'votos', '_id': '5be5a0f30c967b41c50217af'}, {'wts': 1541775603780, 'data': 3691, 'owner': 'adrian_gs', 'ts': 1541775603780, 'channel': 'P1', 'resource': 'clics', '_id': '5be5a0f30c967b41c50217b0'}, {'wts': 1541775603780, 'data': '2018-09-11 07:00:03', 'owner': 'adrian_gs', 'ts': 1541775603780, 'channel': 'P1', 'resource': 'fecha', '_id': '5be5a0f30c967b41c50217b1'}] 
+
+
+[ 2018-11-09 07:02:03.336516 ]:
+Titulo: [' Marina de Guerra de los siglos XVIII y XIX-Comparativo ']
+N_Clics: 203
+NVotos: 14
+MongoDB:  5be5a16b5f627d0661bd44ec
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5a16b0c967b41c50218a9', 'data': ' Marina de Guerra de los siglos XVIII y XIX-Comparativo ', 'owner': 'adrian_gs', 'wts': 1541775723647, 'channel': 'P1', 'ts': 1541775723647, 'resource': 'titulo'}, {'_id': '5be5a16b0c967b41c50218aa', 'data': 14, 'owner': 'adrian_gs', 'wts': 1541775723647, 'channel': 'P1', 'ts': 1541775723647, 'resource': 'votos'}, {'_id': '5be5a16b0c967b41c50218ab', 'data': 203, 'owner': 'adrian_gs', 'wts': 1541775723647, 'channel': 'P1', 'ts': 1541775723647, 'resource': 'clics'}, {'_id': '5be5a16b0c967b41c50218ac', 'data': '2018-09-11 07:02:03', 'owner': 'adrian_gs', 'wts': 1541775723647, 'channel': 'P1', 'ts': 1541775723647, 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 07:04:03.180831 ]:
+Titulo: [' Marina de Guerra de los siglos XVIII y XIX-Comparativo ']
+N_Clics: 247
+NVotos: 15
+MongoDB:  5be5a1e35f627d066b784797
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5a1e30c967b41c5021953', 'wts': 1541775843482, 'owner': 'adrian_gs', 'resource': 'titulo', 'data': ' Marina de Guerra de los siglos XVIII y XIX-Comparativo ', 'channel': 'P1', 'ts': 1541775843482}, {'_id': '5be5a1e30c967b41c5021954', 'wts': 1541775843482, 'owner': 'adrian_gs', 'resource': 'votos', 'data': 15, 'channel': 'P1', 'ts': 1541775843482}, {'_id': '5be5a1e30c967b41c5021955', 'wts': 1541775843482, 'owner': 'adrian_gs', 'resource': 'clics', 'data': 247, 'channel': 'P1', 'ts': 1541775843482}, {'_id': '5be5a1e30c967b41c5021956', 'wts': 1541775843482, 'owner': 'adrian_gs', 'resource': 'fecha', 'data': '2018-09-11 07:04:03', 'channel': 'P1', 'ts': 1541775843482}] 
+
+
+[ 2018-11-09 07:06:02.906619 ]:
+Titulo: [' Marina de Guerra de los siglos XVIII y XIX-Comparativo ']
+N_Clics: 294
+NVotos: 16
+MongoDB:  5be5a25a5f627d067513f790
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Marina de Guerra de los siglos XVIII y XIX-Comparativo ', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'titulo', '_id': '5be5a25b0c967b41c5021a81', 'wts': 1541775963207, 'ts': 1541775963207}, {'data': 16, 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'votos', '_id': '5be5a25b0c967b41c5021a82', 'wts': 1541775963207, 'ts': 1541775963207}, {'data': 294, 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'clics', '_id': '5be5a25b0c967b41c5021a83', 'wts': 1541775963207, 'ts': 1541775963207}, {'data': '2018-09-11 07:06:02', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'fecha', '_id': '5be5a25b0c967b41c5021a84', 'wts': 1541775963207, 'ts': 1541775963207}] 
+
+
+[ 2018-11-09 07:08:02.731262 ]:
+Titulo: [' Marina de Guerra de los siglos XVIII y XIX-Comparativo ']
+N_Clics: 344
+NVotos: 18
+MongoDB:  5be5a2d25f627d067f94df18
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'owner': 'adrian_gs', 'data': ' Marina de Guerra de los siglos XVIII y XIX-Comparativo ', '_id': '5be5a2d30c967b41c5021b48', 'resource': 'titulo', 'wts': 1541776083029, 'ts': 1541776083029}, {'channel': 'P1', 'owner': 'adrian_gs', 'data': 18, '_id': '5be5a2d30c967b41c5021b49', 'resource': 'votos', 'wts': 1541776083029, 'ts': 1541776083029}, {'channel': 'P1', 'owner': 'adrian_gs', 'data': 344, '_id': '5be5a2d30c967b41c5021b4a', 'resource': 'clics', 'wts': 1541776083029, 'ts': 1541776083029}, {'channel': 'P1', 'owner': 'adrian_gs', 'data': '2018-09-11 07:08:02', '_id': '5be5a2d30c967b41c5021b4b', 'resource': 'fecha', 'wts': 1541776083029, 'ts': 1541776083029}] 
+
+
+[ 2018-11-09 07:10:02.529059 ]:
+Titulo: [' Marina de Guerra de los siglos XVIII y XIX-Comparativo ']
+N_Clics: 463
+NVotos: 19
+MongoDB:  5be5a34a5f627d0693a516e7
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5a3dc0c967b41c5021d7d', 'channel': 'P1', 'ts': 1541776348360, 'data': ' Marina de Guerra de los siglos XVIII y XIX-Comparativo ', 'owner': 'adrian_gs', 'wts': 1541776348360, 'resource': 'titulo'}, {'_id': '5be5a3dc0c967b41c5021d7e', 'channel': 'P1', 'ts': 1541776348360, 'data': 19, 'owner': 'adrian_gs', 'wts': 1541776348360, 'resource': 'votos'}, {'_id': '5be5a3dc0c967b41c5021d7f', 'channel': 'P1', 'ts': 1541776348360, 'data': 463, 'owner': 'adrian_gs', 'wts': 1541776348360, 'resource': 'clics'}, {'_id': '5be5a3dc0c967b41c5021d80', 'channel': 'P1', 'ts': 1541776348360, 'data': '2018-09-11 07:10:02', 'owner': 'adrian_gs', 'wts': 1541776348360, 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 07:17:27.871633 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 91
+NVotos: 13
+MongoDB:  5be5a5075f627d069da0cee6
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5a5080c967b41c5021fb5', 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541776648199, 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'wts': 1541776648199, 'resource': 'titulo'}, {'_id': '5be5a5080c967b41c5021fb6', 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541776648199, 'data': 13, 'wts': 1541776648199, 'resource': 'votos'}, {'_id': '5be5a5080c967b41c5021fb7', 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541776648199, 'data': 91, 'wts': 1541776648199, 'resource': 'clics'}, {'_id': '5be5a5080c967b41c5021fb8', 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541776648199, 'data': '2018-09-11 07:17:27', 'wts': 1541776648199, 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 07:17:29.995696 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 91
+NVotos: 13
+MongoDB:  5be5a50a5f627d06a7a343b3
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541776658422, 'ts': 1541776658422, 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', '_id': '5be5a5120c967b41c5021fcc', 'resource': 'titulo', 'channel': 'P1', 'owner': 'adrian_gs'}, {'wts': 1541776658422, 'ts': 1541776658422, 'data': 13, '_id': '5be5a5120c967b41c5021fcd', 'resource': 'votos', 'channel': 'P1', 'owner': 'adrian_gs'}, {'wts': 1541776658422, 'ts': 1541776658422, 'data': 91, '_id': '5be5a5120c967b41c5021fce', 'resource': 'clics', 'channel': 'P1', 'owner': 'adrian_gs'}, {'wts': 1541776658422, 'ts': 1541776658422, 'data': '2018-09-11 07:17:29', '_id': '5be5a5120c967b41c5021fcf', 'resource': 'fecha', 'channel': 'P1', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 07:17:42.523207 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 93
+NVotos: 13
+MongoDB:  5be5a5165f627d06b1ec67c8
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5a5160c967b41c5021fd9', 'ts': 1541776662793, 'resource': 'titulo', 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'wts': 1541776662793, 'channel': 'P1', 'owner': 'adrian_gs'}, {'_id': '5be5a5160c967b41c5021fda', 'ts': 1541776662793, 'resource': 'votos', 'data': 13, 'wts': 1541776662793, 'channel': 'P1', 'owner': 'adrian_gs'}, {'_id': '5be5a5160c967b41c5021fdb', 'ts': 1541776662793, 'resource': 'clics', 'data': 93, 'wts': 1541776662793, 'channel': 'P1', 'owner': 'adrian_gs'}, {'_id': '5be5a5160c967b41c5021fdc', 'ts': 1541776662793, 'resource': 'fecha', 'data': '2018-09-11 07:17:42', 'wts': 1541776662793, 'channel': 'P1', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 07:18:03.711719 ]:
+Titulo: [' La PlayStation Classic utiliza un emulador de código abierto ']
+N_Clics: 102
+NVotos: 13
+MongoDB:  5be5a52b5f627d06be1042c2
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541776684304, 'channel': 'P1', 'resource': 'titulo', 'data': ' La PlayStation Classic utiliza un emulador de código abierto ', 'owner': 'adrian_gs', '_id': '5be5a52c0c967b41c5021ff4', 'ts': 1541776684304}, {'wts': 1541776684304, 'channel': 'P1', 'resource': 'votos', 'data': 13, 'owner': 'adrian_gs', '_id': '5be5a52c0c967b41c5021ff5', 'ts': 1541776684304}, {'wts': 1541776684304, 'channel': 'P1', 'resource': 'clics', 'data': 102, 'owner': 'adrian_gs', '_id': '5be5a52c0c967b41c5021ff6', 'ts': 1541776684304}, {'wts': 1541776684304, 'channel': 'P1', 'resource': 'fecha', 'data': '2018-09-11 07:18:03', 'owner': 'adrian_gs', '_id': '5be5a52c0c967b41c5021ff7', 'ts': 1541776684304}] 
+
+
