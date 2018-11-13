@@ -1,15 +1,18 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-import urllib.request as urlreq
+#import urllib.request as urlreq
 import re
 import datetime
 from pymongo import MongoClient
 from beebotte import *
+import requests
 
 #Obtencion de la pagina web
-req = urlreq.Request('https://meneame.net')
-html = urlreq.urlopen(req).read()
-html_text = html.decode(encoding='UTF-8')   #byte-type a texto
+#req = urlreq.Request('https://meneame.net')
+#html = urlreq.urlopen(req).read()
+#html_text = html.decode(encoding='UTF-8')   #byte-type a texto
+html = requests.get('https://meneame.net', verify=False) #Con este método no se verifica el certificado SSL
+html_text = html.text#decode(encoding='UTF-8')   #byte-type a texto
 
 #El contenido del título es el único ubicado en el header tipo 2, por tanto, se extraen todas las cadenas entre dichos tags
 titulo_h2 = re.findall('<h2>(.*?)</h2>',html_text)  #Ahorra usar reg.exp de urls
@@ -36,8 +39,8 @@ mongodb = client_mdb['p1-database']
 
 myrecord = {
         "titulo": titulo,
-        "clics" : n_clics_first,
-        "votos" : n_votos_first,
+        "clics" : int(n_clics_first),
+        "votos" : int(n_votos_first),
         "date" : fecha
         }
 

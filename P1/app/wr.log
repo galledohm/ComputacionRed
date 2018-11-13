@@ -1030,3 +1030,2558 @@ MongoDB:  5be5c3a35f627d0c99e5e3f0
 Beebotte:  [{'_id': '5be5c3a40c967b41c5025d6c', 'channel': 'P1', 'resource': 'titulo', 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'wts': 1541784484207, 'ts': 1541784484207, 'owner': 'adrian_gs'}, {'_id': '5be5c3a40c967b41c5025d6d', 'channel': 'P1', 'resource': 'votos', 'data': 65, 'wts': 1541784484207, 'ts': 1541784484207, 'owner': 'adrian_gs'}, {'_id': '5be5c3a40c967b41c5025d6e', 'channel': 'P1', 'resource': 'clics', 'data': 100, 'wts': 1541784484207, 'ts': 1541784484207, 'owner': 'adrian_gs'}, {'_id': '5be5c3a40c967b41c5025d6f', 'channel': 'P1', 'resource': 'fecha', 'data': '2018-09-11 09:28:03', 'wts': 1541784484207, 'ts': 1541784484207, 'owner': 'adrian_gs'}] 
 
 
+[ 2018-11-09 09:30:04.075944 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 117
+NVotos: 69
+MongoDB:  5be5c41c5f627d0cb6244b7c
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1541784609362, 'resource': 'titulo', 'owner': 'adrian_gs', 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', '_id': '5be5c4210c967b41c5025ea3', 'channel': 'P1', 'ts': 1541784609362}, {'wts': 1541784609362, 'resource': 'votos', 'owner': 'adrian_gs', 'data': 69, '_id': '5be5c4210c967b41c5025ea4', 'channel': 'P1', 'ts': 1541784609362}, {'wts': 1541784609362, 'resource': 'clics', 'owner': 'adrian_gs', 'data': 117, '_id': '5be5c4210c967b41c5025ea5', 'channel': 'P1', 'ts': 1541784609362}, {'wts': 1541784609362, 'resource': 'fecha', 'owner': 'adrian_gs', 'data': '2018-09-11 09:30:04', '_id': '5be5c4210c967b41c5025ea6', 'channel': 'P1', 'ts': 1541784609362}] 
+
+
+[ 2018-11-09 09:32:08.598868 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 144
+NVotos: 74
+MongoDB:  5be5c4985f627d0cc784c4a1
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'ts': 1541784733888, 'owner': 'adrian_gs', '_id': '5be5c49d0c967b41c5025fce', 'wts': 1541784733888, 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'channel': 'P1'}, {'resource': 'votos', 'ts': 1541784733888, 'owner': 'adrian_gs', '_id': '5be5c49d0c967b41c5025fcf', 'wts': 1541784733888, 'data': 74, 'channel': 'P1'}, {'resource': 'clics', 'ts': 1541784733888, 'owner': 'adrian_gs', '_id': '5be5c49d0c967b41c5025fd0', 'wts': 1541784733888, 'data': 144, 'channel': 'P1'}, {'resource': 'fecha', 'ts': 1541784733888, 'owner': 'adrian_gs', '_id': '5be5c49d0c967b41c5025fd1', 'wts': 1541784733888, 'data': '2018-09-11 09:32:08', 'channel': 'P1'}] 
+
+
+[ 2018-11-09 09:34:03.181061 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 157
+NVotos: 77
+MongoDB:  5be5c50b5f627d0cdf310fc1
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'resource': 'titulo', 'channel': 'P1', 'wts': 1541784843454, 'owner': 'adrian_gs', '_id': '5be5c50b0c967b41c5026066', 'ts': 1541784843454}, {'data': 77, 'resource': 'votos', 'channel': 'P1', 'wts': 1541784843454, 'owner': 'adrian_gs', '_id': '5be5c50b0c967b41c5026067', 'ts': 1541784843454}, {'data': 157, 'resource': 'clics', 'channel': 'P1', 'wts': 1541784843454, 'owner': 'adrian_gs', '_id': '5be5c50b0c967b41c5026068', 'ts': 1541784843454}, {'data': '2018-09-11 09:34:03', 'resource': 'fecha', 'channel': 'P1', 'wts': 1541784843454, 'owner': 'adrian_gs', '_id': '5be5c50b0c967b41c5026069', 'ts': 1541784843454}] 
+
+
+[ 2018-11-09 09:36:04.013634 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 179
+NVotos: 78
+MongoDB:  5be5c5845f627d0ce92587d7
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541784964331, '_id': '5be5c5840c967b41c5026163', 'owner': 'adrian_gs', 'wts': 1541784964331, 'channel': 'P1', 'resource': 'titulo', 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica '}, {'ts': 1541784964331, '_id': '5be5c5840c967b41c5026164', 'owner': 'adrian_gs', 'wts': 1541784964331, 'channel': 'P1', 'resource': 'votos', 'data': 78}, {'ts': 1541784964331, '_id': '5be5c5840c967b41c5026165', 'owner': 'adrian_gs', 'wts': 1541784964331, 'channel': 'P1', 'resource': 'clics', 'data': 179}, {'ts': 1541784964331, '_id': '5be5c5840c967b41c5026166', 'owner': 'adrian_gs', 'wts': 1541784964331, 'channel': 'P1', 'resource': 'fecha', 'data': '2018-09-11 09:36:04'}] 
+
+
+[ 2018-11-09 09:38:07.904797 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 199
+NVotos: 79
+MongoDB:  5be5c5ff5f627d0d093ddde6
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541785088187, 'wts': 1541785088187, '_id': '5be5c6000c967b41c502625b'}, {'resource': 'votos', 'data': 79, 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541785088187, 'wts': 1541785088187, '_id': '5be5c6000c967b41c502625c'}, {'resource': 'clics', 'data': 199, 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541785088187, 'wts': 1541785088187, '_id': '5be5c6000c967b41c502625d'}, {'resource': 'fecha', 'data': '2018-09-11 09:38:07', 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1541785088187, 'wts': 1541785088187, '_id': '5be5c6000c967b41c502625e'}] 
+
+
+[ 2018-11-09 09:40:03.320932 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 216
+NVotos: 80
+MongoDB:  5be5c6735f627d0d3aa43ba8
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541785203724, '_id': '5be5c6730c967b41c502633b', 'owner': 'adrian_gs', 'wts': 1541785203724, 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'channel': 'P1', 'resource': 'titulo'}, {'ts': 1541785203724, '_id': '5be5c6730c967b41c502633c', 'owner': 'adrian_gs', 'wts': 1541785203724, 'data': 80, 'channel': 'P1', 'resource': 'votos'}, {'ts': 1541785203724, '_id': '5be5c6730c967b41c502633d', 'owner': 'adrian_gs', 'wts': 1541785203724, 'data': 216, 'channel': 'P1', 'resource': 'clics'}, {'ts': 1541785203724, '_id': '5be5c6730c967b41c502633e', 'owner': 'adrian_gs', 'wts': 1541785203724, 'data': '2018-09-11 09:40:03', 'channel': 'P1', 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 09:42:03.565821 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 234
+NVotos: 86
+MongoDB:  5be5c6eb5f627d0d5cd9c2b3
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5c6eb0c967b41c50264b6', 'owner': 'adrian_gs', 'wts': 1541785323850, 'channel': 'P1', 'resource': 'titulo', 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'ts': 1541785323850}, {'_id': '5be5c6eb0c967b41c50264b7', 'owner': 'adrian_gs', 'wts': 1541785323850, 'channel': 'P1', 'resource': 'votos', 'data': 86, 'ts': 1541785323850}, {'_id': '5be5c6eb0c967b41c50264b8', 'owner': 'adrian_gs', 'wts': 1541785323850, 'channel': 'P1', 'resource': 'clics', 'data': 234, 'ts': 1541785323850}, {'_id': '5be5c6eb0c967b41c50264b9', 'owner': 'adrian_gs', 'wts': 1541785323850, 'channel': 'P1', 'resource': 'fecha', 'data': '2018-09-11 09:42:03', 'ts': 1541785323850}] 
+
+
+[ 2018-11-09 09:44:02.646488 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 254
+NVotos: 89
+MongoDB:  5be5c7625f627d0d6c7fa537
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5c7620c967b41c5026572', 'wts': 1541785442969, 'resource': 'titulo', 'channel': 'P1', 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'ts': 1541785442969, 'owner': 'adrian_gs'}, {'_id': '5be5c7620c967b41c5026573', 'wts': 1541785442969, 'resource': 'votos', 'channel': 'P1', 'data': 89, 'ts': 1541785442969, 'owner': 'adrian_gs'}, {'_id': '5be5c7620c967b41c5026574', 'wts': 1541785442969, 'resource': 'clics', 'channel': 'P1', 'data': 254, 'ts': 1541785442969, 'owner': 'adrian_gs'}, {'_id': '5be5c7620c967b41c5026575', 'wts': 1541785442969, 'resource': 'fecha', 'channel': 'P1', 'data': '2018-09-11 09:44:02', 'ts': 1541785442969, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 09:46:04.377501 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 270
+NVotos: 99
+MongoDB:  5be5c7dc5f627d0d7620fcd4
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'wts': 1541785570262, 'ts': 1541785570262, 'channel': 'P1', 'resource': 'titulo', '_id': '5be5c7e20c967b41c50266be', 'owner': 'adrian_gs'}, {'data': 99, 'wts': 1541785570262, 'ts': 1541785570262, 'channel': 'P1', 'resource': 'votos', '_id': '5be5c7e20c967b41c50266bf', 'owner': 'adrian_gs'}, {'data': 270, 'wts': 1541785570262, 'ts': 1541785570262, 'channel': 'P1', 'resource': 'clics', '_id': '5be5c7e20c967b41c50266c0', 'owner': 'adrian_gs'}, {'data': '2018-09-11 09:46:04', 'wts': 1541785570262, 'ts': 1541785570262, 'channel': 'P1', 'resource': 'fecha', '_id': '5be5c7e20c967b41c50266c1', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 09:48:03.229073 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 289
+NVotos: 106
+MongoDB:  5be5c8535f627d0d8076f952
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', '_id': '5be5c8530c967b41c5026767', 'channel': 'P1', 'resource': 'titulo', 'ts': 1541785683504, 'wts': 1541785683504, 'owner': 'adrian_gs'}, {'data': 106, '_id': '5be5c8530c967b41c5026768', 'channel': 'P1', 'resource': 'votos', 'ts': 1541785683504, 'wts': 1541785683504, 'owner': 'adrian_gs'}, {'data': 289, '_id': '5be5c8530c967b41c5026769', 'channel': 'P1', 'resource': 'clics', 'ts': 1541785683504, 'wts': 1541785683504, 'owner': 'adrian_gs'}, {'data': '2018-09-11 09:48:03', '_id': '5be5c8530c967b41c502676a', 'channel': 'P1', 'resource': 'fecha', 'ts': 1541785683504, 'wts': 1541785683504, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-09 09:50:03.277694 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 307
+NVotos: 111
+MongoDB:  5be5c8cb5f627d0d8ab6b386
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541785803526, 'channel': 'P1', 'wts': 1541785803526, 'owner': 'adrian_gs', 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'resource': 'titulo', '_id': '5be5c8cb0c967b41c5026830'}, {'ts': 1541785803526, 'channel': 'P1', 'wts': 1541785803526, 'owner': 'adrian_gs', 'data': 111, 'resource': 'votos', '_id': '5be5c8cb0c967b41c5026831'}, {'ts': 1541785803526, 'channel': 'P1', 'wts': 1541785803526, 'owner': 'adrian_gs', 'data': 307, 'resource': 'clics', '_id': '5be5c8cb0c967b41c5026832'}, {'ts': 1541785803526, 'channel': 'P1', 'wts': 1541785803526, 'owner': 'adrian_gs', 'data': '2018-09-11 09:50:03', 'resource': 'fecha', '_id': '5be5c8cb0c967b41c5026833'}] 
+
+
+[ 2018-11-09 09:52:03.389161 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 330
+NVotos: 116
+MongoDB:  5be5c9435f627d0da07049f1
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1541785923650, 'channel': 'P1', 'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'resource': 'titulo', 'wts': 1541785923650, 'owner': 'adrian_gs', '_id': '5be5c9430c967b41c5026970'}, {'ts': 1541785923650, 'channel': 'P1', 'data': 116, 'resource': 'votos', 'wts': 1541785923650, 'owner': 'adrian_gs', '_id': '5be5c9430c967b41c5026971'}, {'ts': 1541785923650, 'channel': 'P1', 'data': 330, 'resource': 'clics', 'wts': 1541785923650, 'owner': 'adrian_gs', '_id': '5be5c9430c967b41c5026972'}, {'ts': 1541785923650, 'channel': 'P1', 'data': '2018-09-11 09:52:03', 'resource': 'fecha', 'wts': 1541785923650, 'owner': 'adrian_gs', '_id': '5be5c9430c967b41c5026973'}] 
+
+
+[ 2018-11-09 09:54:03.935989 ]:
+Titulo: [' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ']
+N_Clics: 346
+NVotos: 120
+MongoDB:  5be5c9bb5f627d0daa93804c
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Ni el viento consigue ya que baje el precio de la electricidad: el ‘pool’ a 59,1 €/MWh con 41% de eólica ', 'resource': 'titulo', '_id': '5be5c9c10c967b41c5026a47', 'wts': 1541786049185, 'owner': 'adrian_gs', 'ts': 1541786049185, 'channel': 'P1'}, {'data': 120, 'resource': 'votos', '_id': '5be5c9c10c967b41c5026a48', 'wts': 1541786049185, 'owner': 'adrian_gs', 'ts': 1541786049185, 'channel': 'P1'}, {'data': 346, 'resource': 'clics', '_id': '5be5c9c10c967b41c5026a49', 'wts': 1541786049185, 'owner': 'adrian_gs', 'ts': 1541786049185, 'channel': 'P1'}, {'data': '2018-09-11 09:54:03', 'resource': 'fecha', '_id': '5be5c9c10c967b41c5026a4a', 'wts': 1541786049185, 'owner': 'adrian_gs', 'ts': 1541786049185, 'channel': 'P1'}] 
+
+
+[ 2018-11-09 09:56:19.717166 ]:
+Titulo: ['Mocos, braguetas y caricaturas: el plus libertad de expresión cuando tratamos asuntos públicos']
+N_Clics: 2992
+NVotos: 133
+MongoDB:  5be5ca435f627d0db40e6e3c
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'wts': 1541787453869, 'ts': 1541787453869, 'owner': 'adrian_gs', 'data': 'Mocos, braguetas y caricaturas: el plus libertad de expresión cuando tratamos asuntos públicos', '_id': '5be5cf3d0c967b41c502754c', 'resource': 'titulo'}, {'channel': 'P1', 'wts': 1541787453869, 'ts': 1541787453869, 'owner': 'adrian_gs', 'data': 133, '_id': '5be5cf3d0c967b41c502754d', 'resource': 'votos'}, {'channel': 'P1', 'wts': 1541787453869, 'ts': 1541787453869, 'owner': 'adrian_gs', 'data': 2992, '_id': '5be5cf3d0c967b41c502754e', 'resource': 'clics'}, {'channel': 'P1', 'wts': 1541787453869, 'ts': 1541787453869, 'owner': 'adrian_gs', 'data': '2018-09-11 09:56:19', '_id': '5be5cf3d0c967b41c502754f', 'resource': 'fecha'}] 
+
+
+[ 2018-11-09 10:18:15.549825 ]:
+Titulo: ['Mocos, braguetas y caricaturas: el plus libertad de expresión cuando tratamos asuntos públicos']
+N_Clics: 3021
+NVotos: 137
+MongoDB:  5be5cf675f627d0dc3de7f19
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5be5cf670c967b41c5027580', 'owner': 'adrian_gs', 'data': 'Mocos, braguetas y caricaturas: el plus libertad de expresión cuando tratamos asuntos públicos', 'channel': 'P1', 'ts': 1541787495817, 'resource': 'titulo', 'wts': 1541787495817}, {'_id': '5be5cf670c967b41c5027581', 'owner': 'adrian_gs', 'data': 137, 'channel': 'P1', 'ts': 1541787495817, 'resource': 'votos', 'wts': 1541787495817}, {'_id': '5be5cf670c967b41c5027582', 'owner': 'adrian_gs', 'data': 3021, 'channel': 'P1', 'ts': 1541787495817, 'resource': 'clics', 'wts': 1541787495817}, {'_id': '5be5cf670c967b41c5027583', 'owner': 'adrian_gs', 'data': '2018-09-11 10:18:15', 'channel': 'P1', 'ts': 1541787495817, 'resource': 'fecha', 'wts': 1541787495817}] 
+
+
+[ 2018-11-09 10:20:02.359161 ]:
+Titulo: ['Mocos, braguetas y caricaturas: el plus libertad de expresión cuando tratamos asuntos públicos']
+N_Clics: 3084
+NVotos: 139
+MongoDB:  5be5cfd25f627d0dcf4c1f02
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541787602637, 'data': 'Mocos, braguetas y caricaturas: el plus libertad de expresión cuando tratamos asuntos públicos', 'resource': 'titulo', 'wts': 1541787602637, '_id': '5be5cfd20c967b41c5027626'}, {'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541787602637, 'data': 139, 'resource': 'votos', 'wts': 1541787602637, '_id': '5be5cfd20c967b41c5027627'}, {'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541787602637, 'data': 3084, 'resource': 'clics', 'wts': 1541787602637, '_id': '5be5cfd20c967b41c5027628'}, {'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1541787602637, 'data': '2018-09-11 10:20:02', 'resource': 'fecha', 'wts': 1541787602637, '_id': '5be5cfd20c967b41c5027629'}] 
+
+
+[ 2018-11-13 06:34:03.757896 ]:
+Titulo: [' Apoyo a la democracia en América Latina ']
+N_Clics: 543
+NVotos: 23
+MongoDB:  5beae0db5f627d0737ec107e
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Apoyo a la democracia en América Latina ', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542119644257, '_id': '5beae0dc074cec304e6b5756', 'ts': 1542119644257, 'resource': 'titulo'}, {'data': 23, 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542119644257, '_id': '5beae0dc074cec304e6b5757', 'ts': 1542119644257, 'resource': 'votos'}, {'data': 543, 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542119644257, '_id': '5beae0dc074cec304e6b5758', 'ts': 1542119644257, 'resource': 'clics'}, {'data': '2018-13-11 06:34:03', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542119644257, '_id': '5beae0dc074cec304e6b5759', 'ts': 1542119644257, 'resource': 'fecha'}] 
+
+
+[ 2018-11-13 06:36:02.865345 ]:
+Titulo: [' Apoyo a la democracia en América Latina ']
+N_Clics: 608
+NVotos: 26
+MongoDB:  5beae1525f627d293208d373
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Apoyo a la democracia en América Latina ', '_id': '5beae153074cec304e6b5856', 'resource': 'titulo', 'channel': 'P1', 'wts': 1542119763163, 'owner': 'adrian_gs', 'ts': 1542119763163}, {'data': 26, '_id': '5beae153074cec304e6b5857', 'resource': 'votos', 'channel': 'P1', 'wts': 1542119763163, 'owner': 'adrian_gs', 'ts': 1542119763163}, {'data': 608, '_id': '5beae153074cec304e6b5858', 'resource': 'clics', 'channel': 'P1', 'wts': 1542119763163, 'owner': 'adrian_gs', 'ts': 1542119763163}, {'data': '2018-13-11 06:36:02', '_id': '5beae153074cec304e6b5859', 'resource': 'fecha', 'channel': 'P1', 'wts': 1542119763163, 'owner': 'adrian_gs', 'ts': 1542119763163}] 
+
+
+[ 2018-11-13 06:38:02.436446 ]:
+Titulo: [' Apoyo a la democracia en América Latina ']
+N_Clics: 670
+NVotos: 28
+MongoDB:  5beae1ca5f627d29468b5e96
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beae1ca074cec304e6b5969', 'owner': 'adrian_gs', 'data': ' Apoyo a la democracia en América Latina ', 'wts': 1542119882720, 'resource': 'titulo', 'channel': 'P1', 'ts': 1542119882720}, {'_id': '5beae1ca074cec304e6b596a', 'owner': 'adrian_gs', 'data': 28, 'wts': 1542119882720, 'resource': 'votos', 'channel': 'P1', 'ts': 1542119882720}, {'_id': '5beae1ca074cec304e6b596b', 'owner': 'adrian_gs', 'data': 670, 'wts': 1542119882720, 'resource': 'clics', 'channel': 'P1', 'ts': 1542119882720}, {'_id': '5beae1ca074cec304e6b596c', 'owner': 'adrian_gs', 'data': '2018-13-11 06:38:02', 'wts': 1542119882720, 'resource': 'fecha', 'channel': 'P1', 'ts': 1542119882720}] 
+
+
+[ 2018-11-13 06:40:03.091915 ]:
+Titulo: [' Apoyo a la democracia en América Latina ']
+N_Clics: 747
+NVotos: 29
+MongoDB:  5beae2435f627d29503b83b5
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1542120003381, 'data': ' Apoyo a la democracia en América Latina ', 'resource': 'titulo', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1542120003381, '_id': '5beae243074cec304e6b5a7e'}, {'wts': 1542120003381, 'data': 29, 'resource': 'votos', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1542120003381, '_id': '5beae243074cec304e6b5a7f'}, {'wts': 1542120003381, 'data': 747, 'resource': 'clics', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1542120003381, '_id': '5beae243074cec304e6b5a80'}, {'wts': 1542120003381, 'data': '2018-13-11 06:40:03', 'resource': 'fecha', 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1542120003381, '_id': '5beae243074cec304e6b5a81'}] 
+
+
+[ 2018-11-13 06:42:02.975817 ]:
+Titulo: [' Apoyo a la democracia en América Latina ']
+N_Clics: 813
+NVotos: 31
+MongoDB:  5beae2ba5f627d2969483bdb
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1542120123259, 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1542120123259, 'resource': 'titulo', 'data': ' Apoyo a la democracia en América Latina ', '_id': '5beae2bb074cec304e6b5b89'}, {'wts': 1542120123259, 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1542120123259, 'resource': 'votos', 'data': 31, '_id': '5beae2bb074cec304e6b5b8a'}, {'wts': 1542120123259, 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1542120123259, 'resource': 'clics', 'data': 813, '_id': '5beae2bb074cec304e6b5b8b'}, {'wts': 1542120123259, 'channel': 'P1', 'owner': 'adrian_gs', 'ts': 1542120123259, 'resource': 'fecha', 'data': '2018-13-11 06:42:02', '_id': '5beae2bb074cec304e6b5b8c'}] 
+
+
+[ 2018-11-13 06:44:02.495210 ]:
+Titulo: [' Apoyo a la democracia en América Latina ']
+N_Clics: 864
+NVotos: 32
+MongoDB:  5beae3325f627d298e26248f
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beae332074cec304e6b5c56', 'owner': 'adrian_gs', 'data': ' Apoyo a la democracia en América Latina ', 'wts': 1542120242776, 'channel': 'P1', 'ts': 1542120242776, 'resource': 'titulo'}, {'_id': '5beae332074cec304e6b5c57', 'owner': 'adrian_gs', 'data': 32, 'wts': 1542120242776, 'channel': 'P1', 'ts': 1542120242776, 'resource': 'votos'}, {'_id': '5beae332074cec304e6b5c58', 'owner': 'adrian_gs', 'data': 864, 'wts': 1542120242776, 'channel': 'P1', 'ts': 1542120242776, 'resource': 'clics'}, {'_id': '5beae332074cec304e6b5c59', 'owner': 'adrian_gs', 'data': '2018-13-11 06:44:02', 'wts': 1542120242776, 'channel': 'P1', 'ts': 1542120242776, 'resource': 'fecha'}] 
+
+
+[ 2018-11-13 06:46:02.187742 ]:
+Titulo: [' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ']
+N_Clics: 231
+NVotos: 24
+MongoDB:  5beae3aa5f627d29a43bf427
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'wts': 1542120362480, 'data': ' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ', 'ts': 1542120362480, 'resource': 'titulo', 'channel': 'P1', '_id': '5beae3aa074cec304e6b5d95'}, {'owner': 'adrian_gs', 'wts': 1542120362480, 'data': 24, 'ts': 1542120362480, 'resource': 'votos', 'channel': 'P1', '_id': '5beae3aa074cec304e6b5d96'}, {'owner': 'adrian_gs', 'wts': 1542120362480, 'data': 231, 'ts': 1542120362480, 'resource': 'clics', 'channel': 'P1', '_id': '5beae3aa074cec304e6b5d97'}, {'owner': 'adrian_gs', 'wts': 1542120362480, 'data': '2018-13-11 06:46:02', 'ts': 1542120362480, 'resource': 'fecha', 'channel': 'P1', '_id': '5beae3aa074cec304e6b5d98'}] 
+
+
+[ 2018-11-13 06:48:03.069068 ]:
+Titulo: [' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ']
+N_Clics: 310
+NVotos: 26
+MongoDB:  5beae4235f627d29c2f97078
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ', 'wts': 1542120483362, 'owner': 'adrian_gs', '_id': '5beae423074cec304e6b5e64', 'channel': 'P1', 'ts': 1542120483362, 'resource': 'titulo'}, {'data': 26, 'wts': 1542120483362, 'owner': 'adrian_gs', '_id': '5beae423074cec304e6b5e65', 'channel': 'P1', 'ts': 1542120483362, 'resource': 'votos'}, {'data': 310, 'wts': 1542120483362, 'owner': 'adrian_gs', '_id': '5beae423074cec304e6b5e66', 'channel': 'P1', 'ts': 1542120483362, 'resource': 'clics'}, {'data': '2018-13-11 06:48:03', 'wts': 1542120483362, 'owner': 'adrian_gs', '_id': '5beae423074cec304e6b5e67', 'channel': 'P1', 'ts': 1542120483362, 'resource': 'fecha'}] 
+
+
+[ 2018-11-13 06:50:02.958074 ]:
+Titulo: [' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ']
+N_Clics: 367
+NVotos: 26
+MongoDB:  5beae49a5f627d29f8c1594f
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beae49b074cec304e6b5f56', 'wts': 1542120603375, 'data': ' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'titulo', 'ts': 1542120603375}, {'_id': '5beae49b074cec304e6b5f57', 'wts': 1542120603375, 'data': 26, 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'votos', 'ts': 1542120603375}, {'_id': '5beae49b074cec304e6b5f58', 'wts': 1542120603375, 'data': 367, 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'clics', 'ts': 1542120603375}, {'_id': '5beae49b074cec304e6b5f59', 'wts': 1542120603375, 'data': '2018-13-11 06:50:02', 'channel': 'P1', 'owner': 'adrian_gs', 'resource': 'fecha', 'ts': 1542120603375}] 
+
+
+[ 2018-11-13 06:52:04.107152 ]:
+Titulo: [' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ']
+N_Clics: 435
+NVotos: 27
+MongoDB:  5beae5145f627d2a1b0a1654
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1542120724393, 'wts': 1542120724393, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5beae514074cec304e6b6072', 'resource': 'titulo', 'data': ' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» '}, {'ts': 1542120724393, 'wts': 1542120724393, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5beae514074cec304e6b6073', 'resource': 'votos', 'data': 27}, {'ts': 1542120724393, 'wts': 1542120724393, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5beae514074cec304e6b6074', 'resource': 'clics', 'data': 435}, {'ts': 1542120724393, 'wts': 1542120724393, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5beae514074cec304e6b6075', 'resource': 'fecha', 'data': '2018-13-11 06:52:04'}] 
+
+
+[ 2018-11-13 06:54:03.005079 ]:
+Titulo: [' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ']
+N_Clics: 514
+NVotos: 27
+MongoDB:  5beae58b5f627d2a31d7507b
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beae58b074cec304e6b613e', 'resource': 'titulo', 'ts': 1542120843292, 'channel': 'P1', 'data': ' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ', 'wts': 1542120843292, 'owner': 'adrian_gs'}, {'_id': '5beae58b074cec304e6b613f', 'resource': 'votos', 'ts': 1542120843292, 'channel': 'P1', 'data': 27, 'wts': 1542120843292, 'owner': 'adrian_gs'}, {'_id': '5beae58b074cec304e6b6140', 'resource': 'clics', 'ts': 1542120843292, 'channel': 'P1', 'data': 514, 'wts': 1542120843292, 'owner': 'adrian_gs'}, {'_id': '5beae58b074cec304e6b6141', 'resource': 'fecha', 'ts': 1542120843292, 'channel': 'P1', 'data': '2018-13-11 06:54:03', 'wts': 1542120843292, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-13 06:56:02.587344 ]:
+Titulo: [' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ']
+N_Clics: 569
+NVotos: 28
+MongoDB:  5beae6025f627d2a3c9b6f43
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ', 'wts': 1542120962952, '_id': '5beae602074cec304e6b6220', 'ts': 1542120962952, 'resource': 'titulo', 'owner': 'adrian_gs', 'channel': 'P1'}, {'data': 28, 'wts': 1542120962952, '_id': '5beae602074cec304e6b6221', 'ts': 1542120962952, 'resource': 'votos', 'owner': 'adrian_gs', 'channel': 'P1'}, {'data': 569, 'wts': 1542120962952, '_id': '5beae602074cec304e6b6222', 'ts': 1542120962952, 'resource': 'clics', 'owner': 'adrian_gs', 'channel': 'P1'}, {'data': '2018-13-11 06:56:02', 'wts': 1542120962952, '_id': '5beae602074cec304e6b6223', 'ts': 1542120962952, 'resource': 'fecha', 'owner': 'adrian_gs', 'channel': 'P1'}] 
+
+
+[ 2018-11-13 06:58:02.179529 ]:
+Titulo: [' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ']
+N_Clics: 616
+NVotos: 28
+MongoDB:  5beae67a5f627d2a6032f28f
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'resource': 'titulo', 'wts': 1542121082464, 'data': ' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ', '_id': '5beae67a074cec304e6b62f0', 'ts': 1542121082464, 'owner': 'adrian_gs'}, {'channel': 'P1', 'resource': 'votos', 'wts': 1542121082464, 'data': 28, '_id': '5beae67a074cec304e6b62f1', 'ts': 1542121082464, 'owner': 'adrian_gs'}, {'channel': 'P1', 'resource': 'clics', 'wts': 1542121082464, 'data': 616, '_id': '5beae67a074cec304e6b62f2', 'ts': 1542121082464, 'owner': 'adrian_gs'}, {'channel': 'P1', 'resource': 'fecha', 'wts': 1542121082464, 'data': '2018-13-11 06:58:02', '_id': '5beae67a074cec304e6b62f3', 'ts': 1542121082464, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-13 07:00:02.813126 ]:
+Titulo: [' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ']
+N_Clics: 677
+NVotos: 28
+MongoDB:  5beae6f25f627d2a7620723c
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', '_id': '5beae6f3074cec304e6b63e9', 'ts': 1542121203093, 'owner': 'adrian_gs', 'data': ' Joe Arlauckas: «Jugando en Grecia casi me ponía cachondo» ', 'channel': 'P1', 'wts': 1542121203093}, {'resource': 'votos', '_id': '5beae6f3074cec304e6b63ea', 'ts': 1542121203093, 'owner': 'adrian_gs', 'data': 28, 'channel': 'P1', 'wts': 1542121203093}, {'resource': 'clics', '_id': '5beae6f3074cec304e6b63eb', 'ts': 1542121203093, 'owner': 'adrian_gs', 'data': 677, 'channel': 'P1', 'wts': 1542121203093}, {'resource': 'fecha', '_id': '5beae6f3074cec304e6b63ec', 'ts': 1542121203093, 'owner': 'adrian_gs', 'data': '2018-13-11 07:00:02', 'channel': 'P1', 'wts': 1542121203093}] 
+
+
+[ 2018-11-13 07:02:02.913762 ]:
+Titulo: [' In memoriam: Stan Lee ']
+N_Clics: 82
+NVotos: 15
+MongoDB:  5beae76a5f627d2a88c1e670
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beae76b074cec304e6b651e', 'data': ' In memoriam: Stan Lee ', 'owner': 'adrian_gs', 'wts': 1542121323198, 'resource': 'titulo', 'channel': 'P1', 'ts': 1542121323198}, {'_id': '5beae76b074cec304e6b651f', 'data': 15, 'owner': 'adrian_gs', 'wts': 1542121323198, 'resource': 'votos', 'channel': 'P1', 'ts': 1542121323198}, {'_id': '5beae76b074cec304e6b6520', 'data': 82, 'owner': 'adrian_gs', 'wts': 1542121323198, 'resource': 'clics', 'channel': 'P1', 'ts': 1542121323198}, {'_id': '5beae76b074cec304e6b6521', 'data': '2018-13-11 07:02:02', 'owner': 'adrian_gs', 'wts': 1542121323198, 'resource': 'fecha', 'channel': 'P1', 'ts': 1542121323198}] 
+
+
+[ 2018-11-13 07:04:02.933840 ]:
+Titulo: [' In memoriam: Stan Lee ']
+N_Clics: 131
+NVotos: 16
+MongoDB:  5beae7e25f627d2ab6233a20
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'resource': 'titulo', '_id': '5beae7e3074cec304e6b65fb', 'channel': 'P1', 'wts': 1542121443216, 'data': ' In memoriam: Stan Lee ', 'ts': 1542121443216}, {'owner': 'adrian_gs', 'resource': 'votos', '_id': '5beae7e3074cec304e6b65fc', 'channel': 'P1', 'wts': 1542121443216, 'data': 16, 'ts': 1542121443216}, {'owner': 'adrian_gs', 'resource': 'clics', '_id': '5beae7e3074cec304e6b65fd', 'channel': 'P1', 'wts': 1542121443216, 'data': 131, 'ts': 1542121443216}, {'owner': 'adrian_gs', 'resource': 'fecha', '_id': '5beae7e3074cec304e6b65fe', 'channel': 'P1', 'wts': 1542121443216, 'data': '2018-13-11 07:04:02', 'ts': 1542121443216}] 
+
+
+[ 2018-11-13 07:06:02.876634 ]:
+Titulo: [' In memoriam: Stan Lee ']
+N_Clics: 165
+NVotos: 20
+MongoDB:  5beae85a5f627d2ac03d0909
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beae85b074cec304e6b674f', 'channel': 'P1', 'resource': 'titulo', 'data': ' In memoriam: Stan Lee ', 'ts': 1542121563270, 'owner': 'adrian_gs', 'wts': 1542121563270}, {'_id': '5beae85b074cec304e6b6750', 'channel': 'P1', 'resource': 'votos', 'data': 20, 'ts': 1542121563270, 'owner': 'adrian_gs', 'wts': 1542121563270}, {'_id': '5beae85b074cec304e6b6751', 'channel': 'P1', 'resource': 'clics', 'data': 165, 'ts': 1542121563270, 'owner': 'adrian_gs', 'wts': 1542121563270}, {'_id': '5beae85b074cec304e6b6752', 'channel': 'P1', 'resource': 'fecha', 'data': '2018-13-11 07:06:02', 'ts': 1542121563270, 'owner': 'adrian_gs', 'wts': 1542121563270}] 
+
+
+[ 2018-11-13 07:08:08.006306 ]:
+Titulo: [' In memoriam: Stan Lee ']
+N_Clics: 211
+NVotos: 24
+MongoDB:  5beae8d85f627d2acae28c20
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1542121688303, 'channel': 'P1', 'ts': 1542121688303, '_id': '5beae8d8074cec304e6b6835', 'data': ' In memoriam: Stan Lee ', 'resource': 'titulo', 'owner': 'adrian_gs'}, {'wts': 1542121688303, 'channel': 'P1', 'ts': 1542121688303, '_id': '5beae8d8074cec304e6b6836', 'data': 24, 'resource': 'votos', 'owner': 'adrian_gs'}, {'wts': 1542121688303, 'channel': 'P1', 'ts': 1542121688303, '_id': '5beae8d8074cec304e6b6837', 'data': 211, 'resource': 'clics', 'owner': 'adrian_gs'}, {'wts': 1542121688303, 'channel': 'P1', 'ts': 1542121688303, '_id': '5beae8d8074cec304e6b6838', 'data': '2018-13-11 07:08:08', 'resource': 'fecha', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-13 07:10:02.667775 ]:
+Titulo: [' In memoriam: Stan Lee ']
+N_Clics: 246
+NVotos: 24
+MongoDB:  5beae94a5f627d2ade7020f2
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beae94a074cec304e6b691e', 'owner': 'adrian_gs', 'wts': 1542121802973, 'channel': 'P1', 'ts': 1542121802973, 'resource': 'titulo', 'data': ' In memoriam: Stan Lee '}, {'_id': '5beae94a074cec304e6b691f', 'owner': 'adrian_gs', 'wts': 1542121802973, 'channel': 'P1', 'ts': 1542121802973, 'resource': 'votos', 'data': 24}, {'_id': '5beae94a074cec304e6b6920', 'owner': 'adrian_gs', 'wts': 1542121802973, 'channel': 'P1', 'ts': 1542121802973, 'resource': 'clics', 'data': 246}, {'_id': '5beae94a074cec304e6b6921', 'owner': 'adrian_gs', 'wts': 1542121802973, 'channel': 'P1', 'ts': 1542121802973, 'resource': 'fecha', 'data': '2018-13-11 07:10:02'}] 
+
+
+[ 2018-11-13 07:12:02.673538 ]:
+Titulo: [' In memoriam: Stan Lee ']
+N_Clics: 284
+NVotos: 26
+MongoDB:  5beae9c25f627d2af1d7a77c
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beae9c3074cec304e6b6a26', 'resource': 'titulo', 'owner': 'adrian_gs', 'data': ' In memoriam: Stan Lee ', 'channel': 'P1', 'ts': 1542121923217, 'wts': 1542121923217}, {'_id': '5beae9c3074cec304e6b6a27', 'resource': 'votos', 'owner': 'adrian_gs', 'data': 26, 'channel': 'P1', 'ts': 1542121923217, 'wts': 1542121923217}, {'_id': '5beae9c3074cec304e6b6a28', 'resource': 'clics', 'owner': 'adrian_gs', 'data': 284, 'channel': 'P1', 'ts': 1542121923217, 'wts': 1542121923217}, {'_id': '5beae9c3074cec304e6b6a29', 'resource': 'fecha', 'owner': 'adrian_gs', 'data': '2018-13-11 07:12:02', 'channel': 'P1', 'ts': 1542121923217, 'wts': 1542121923217}] 
+
+
+[ 2018-11-13 07:14:02.891419 ]:
+Titulo: [' In memoriam: Stan Lee ']
+N_Clics: 323
+NVotos: 26
+MongoDB:  5beaea3a5f627d2afb67c894
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', '_id': '5beaea3b074cec304e6b6af0', 'ts': 1542122043200, 'data': ' In memoriam: Stan Lee ', 'wts': 1542122043200, 'resource': 'titulo', 'channel': 'P1'}, {'owner': 'adrian_gs', '_id': '5beaea3b074cec304e6b6af1', 'ts': 1542122043200, 'data': 26, 'wts': 1542122043200, 'resource': 'votos', 'channel': 'P1'}, {'owner': 'adrian_gs', '_id': '5beaea3b074cec304e6b6af2', 'ts': 1542122043200, 'data': 323, 'wts': 1542122043200, 'resource': 'clics', 'channel': 'P1'}, {'owner': 'adrian_gs', '_id': '5beaea3b074cec304e6b6af3', 'ts': 1542122043200, 'data': '2018-13-11 07:14:02', 'wts': 1542122043200, 'resource': 'fecha', 'channel': 'P1'}] 
+
+
+[ 2018-11-13 07:16:02.779371 ]:
+Titulo: [' In memoriam: Stan Lee ']
+N_Clics: 360
+NVotos: 29
+MongoDB:  5beaeab25f627d2b054a7b93
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beaeab3074cec304e6b6bfa', 'data': ' In memoriam: Stan Lee ', 'owner': 'adrian_gs', 'wts': 1542122163078, 'resource': 'titulo', 'channel': 'P1', 'ts': 1542122163078}, {'_id': '5beaeab3074cec304e6b6bfb', 'data': 29, 'owner': 'adrian_gs', 'wts': 1542122163078, 'resource': 'votos', 'channel': 'P1', 'ts': 1542122163078}, {'_id': '5beaeab3074cec304e6b6bfc', 'data': 360, 'owner': 'adrian_gs', 'wts': 1542122163078, 'resource': 'clics', 'channel': 'P1', 'ts': 1542122163078}, {'_id': '5beaeab3074cec304e6b6bfd', 'data': '2018-13-11 07:16:02', 'owner': 'adrian_gs', 'wts': 1542122163078, 'resource': 'fecha', 'channel': 'P1', 'ts': 1542122163078}] 
+
+
+[ 2018-11-13 07:18:02.482479 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 427
+NVotos: 380
+MongoDB:  5beaeb2a5f627d2b12e6a735
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1542122282834, 'wts': 1542122282834, 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'resource': 'titulo', '_id': '5beaeb2a074cec304e6b6ce8', 'channel': 'P1', 'owner': 'adrian_gs'}, {'ts': 1542122282834, 'wts': 1542122282834, 'data': 380, 'resource': 'votos', '_id': '5beaeb2a074cec304e6b6ce9', 'channel': 'P1', 'owner': 'adrian_gs'}, {'ts': 1542122282834, 'wts': 1542122282834, 'data': 427, 'resource': 'clics', '_id': '5beaeb2a074cec304e6b6cea', 'channel': 'P1', 'owner': 'adrian_gs'}, {'ts': 1542122282834, 'wts': 1542122282834, 'data': '2018-13-11 07:18:02', 'resource': 'fecha', '_id': '5beaeb2a074cec304e6b6ceb', 'channel': 'P1', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-13 07:20:02.142845 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 443
+NVotos: 389
+MongoDB:  5beaeba25f627d2b639bf2be
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', '_id': '5beaeba2074cec304e6b6dcf', 'wts': 1542122402442, 'ts': 1542122402442, 'owner': 'adrian_gs', 'resource': 'titulo', 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal '}, {'channel': 'P1', '_id': '5beaeba2074cec304e6b6dd0', 'wts': 1542122402442, 'ts': 1542122402442, 'owner': 'adrian_gs', 'resource': 'votos', 'data': 389}, {'channel': 'P1', '_id': '5beaeba2074cec304e6b6dd1', 'wts': 1542122402442, 'ts': 1542122402442, 'owner': 'adrian_gs', 'resource': 'clics', 'data': 443}, {'channel': 'P1', '_id': '5beaeba2074cec304e6b6dd2', 'wts': 1542122402442, 'ts': 1542122402442, 'owner': 'adrian_gs', 'resource': 'fecha', 'data': '2018-13-11 07:20:02'}] 
+
+
+[ 2018-11-13 07:22:02.857675 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 454
+NVotos: 397
+MongoDB:  5beaec1a5f627d2b89d82834
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beaec1b074cec304e6b6ee9', 'wts': 1542122523268, 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'resource': 'titulo', 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1542122523268}, {'_id': '5beaec1b074cec304e6b6eea', 'wts': 1542122523268, 'data': 397, 'resource': 'votos', 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1542122523268}, {'_id': '5beaec1b074cec304e6b6eeb', 'wts': 1542122523268, 'data': 454, 'resource': 'clics', 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1542122523268}, {'_id': '5beaec1b074cec304e6b6eec', 'wts': 1542122523268, 'data': '2018-13-11 07:22:02', 'resource': 'fecha', 'owner': 'adrian_gs', 'channel': 'P1', 'ts': 1542122523268}] 
+
+
+[ 2018-11-13 07:24:02.704391 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 464
+NVotos: 408
+MongoDB:  5beaec925f627d2b9d6c4a65
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1542122642963, 'owner': 'adrian_gs', 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'wts': 1542122642963, 'resource': 'titulo', '_id': '5beaec92074cec304e6b6ff5', 'channel': 'P1'}, {'ts': 1542122642963, 'owner': 'adrian_gs', 'data': 408, 'wts': 1542122642963, 'resource': 'votos', '_id': '5beaec92074cec304e6b6ff6', 'channel': 'P1'}, {'ts': 1542122642963, 'owner': 'adrian_gs', 'data': 464, 'wts': 1542122642963, 'resource': 'clics', '_id': '5beaec92074cec304e6b6ff7', 'channel': 'P1'}, {'ts': 1542122642963, 'owner': 'adrian_gs', 'data': '2018-13-11 07:24:02', 'wts': 1542122642963, 'resource': 'fecha', '_id': '5beaec92074cec304e6b6ff8', 'channel': 'P1'}] 
+
+
+[ 2018-11-13 07:26:02.519269 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 475
+NVotos: 418
+MongoDB:  5beaed0a5f627d2ba762f8b6
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'owner': 'adrian_gs', '_id': '5beaed0a074cec304e6b70e9', 'ts': 1542122762782, 'channel': 'P1', 'wts': 1542122762782, 'resource': 'titulo'}, {'data': 418, 'owner': 'adrian_gs', '_id': '5beaed0a074cec304e6b70ea', 'ts': 1542122762782, 'channel': 'P1', 'wts': 1542122762782, 'resource': 'votos'}, {'data': 475, 'owner': 'adrian_gs', '_id': '5beaed0a074cec304e6b70eb', 'ts': 1542122762782, 'channel': 'P1', 'wts': 1542122762782, 'resource': 'clics'}, {'data': '2018-13-11 07:26:02', 'owner': 'adrian_gs', '_id': '5beaed0a074cec304e6b70ec', 'ts': 1542122762782, 'channel': 'P1', 'wts': 1542122762782, 'resource': 'fecha'}] 
+
+
+[ 2018-11-13 07:28:02.099197 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 489
+NVotos: 429
+MongoDB:  5beaed825f627d2bb1c752ab
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', '_id': '5beaed82074cec304e6b719e', 'channel': 'P1', 'wts': 1542122882361, 'ts': 1542122882361, 'resource': 'titulo', 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal '}, {'owner': 'adrian_gs', '_id': '5beaed82074cec304e6b719f', 'channel': 'P1', 'wts': 1542122882361, 'ts': 1542122882361, 'resource': 'votos', 'data': 429}, {'owner': 'adrian_gs', '_id': '5beaed82074cec304e6b71a0', 'channel': 'P1', 'wts': 1542122882361, 'ts': 1542122882361, 'resource': 'clics', 'data': 489}, {'owner': 'adrian_gs', '_id': '5beaed82074cec304e6b71a1', 'channel': 'P1', 'wts': 1542122882361, 'ts': 1542122882361, 'resource': 'fecha', 'data': '2018-13-11 07:28:02'}] 
+
+
+[ 2018-11-13 07:30:02.656152 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 500
+NVotos: 439
+MongoDB:  5beaedfa5f627d2bbb52c084
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'wts': 1542123002914, 'ts': 1542123002914, 'resource': 'titulo', '_id': '5beaedfa074cec304e6b7276', 'owner': 'adrian_gs'}, {'channel': 'P1', 'data': 439, 'wts': 1542123002914, 'ts': 1542123002914, 'resource': 'votos', '_id': '5beaedfa074cec304e6b7277', 'owner': 'adrian_gs'}, {'channel': 'P1', 'data': 500, 'wts': 1542123002914, 'ts': 1542123002914, 'resource': 'clics', '_id': '5beaedfa074cec304e6b7278', 'owner': 'adrian_gs'}, {'channel': 'P1', 'data': '2018-13-11 07:30:02', 'wts': 1542123002914, 'ts': 1542123002914, 'resource': 'fecha', '_id': '5beaedfa074cec304e6b7279', 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-13 07:32:02.629357 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 512
+NVotos: 447
+MongoDB:  5beaee725f627d2bf1d25e98
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beaee72074cec304e6b7419', 'ts': 1542123122881, 'resource': 'titulo', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542123122881, 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal '}, {'_id': '5beaee72074cec304e6b741a', 'ts': 1542123122881, 'resource': 'votos', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542123122881, 'data': 447}, {'_id': '5beaee72074cec304e6b741b', 'ts': 1542123122881, 'resource': 'clics', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542123122881, 'data': 512}, {'_id': '5beaee72074cec304e6b741c', 'ts': 1542123122881, 'resource': 'fecha', 'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542123122881, 'data': '2018-13-11 07:32:02'}] 
+
+
+[ 2018-11-13 07:34:02.506174 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 525
+NVotos: 451
+MongoDB:  5beaeeea5f627d2c0f5f3d46
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5beaeeea074cec304e6b74e6', 'owner': 'adrian_gs', 'ts': 1542123242760, 'resource': 'titulo', 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'channel': 'P1', 'wts': 1542123242760}, {'_id': '5beaeeea074cec304e6b74e7', 'owner': 'adrian_gs', 'ts': 1542123242760, 'resource': 'votos', 'data': 451, 'channel': 'P1', 'wts': 1542123242760}, {'_id': '5beaeeea074cec304e6b74e8', 'owner': 'adrian_gs', 'ts': 1542123242760, 'resource': 'clics', 'data': 525, 'channel': 'P1', 'wts': 1542123242760}, {'_id': '5beaeeea074cec304e6b74e9', 'owner': 'adrian_gs', 'ts': 1542123242760, 'resource': 'fecha', 'data': '2018-13-11 07:34:02', 'channel': 'P1', 'wts': 1542123242760}] 
+
+
+[ 2018-11-13 07:36:02.666201 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 534
+NVotos: 462
+MongoDB:  5beaef625f627d2c1c93e4e8
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', '_id': '5beaef62074cec304e6b75ef', 'resource': 'titulo', 'wts': 1542123362917, 'ts': 1542123362917, 'channel': 'P1'}, {'owner': 'adrian_gs', 'data': 462, '_id': '5beaef62074cec304e6b75f0', 'resource': 'votos', 'wts': 1542123362917, 'ts': 1542123362917, 'channel': 'P1'}, {'owner': 'adrian_gs', 'data': 534, '_id': '5beaef62074cec304e6b75f1', 'resource': 'clics', 'wts': 1542123362917, 'ts': 1542123362917, 'channel': 'P1'}, {'owner': 'adrian_gs', 'data': '2018-13-11 07:36:02', '_id': '5beaef62074cec304e6b75f2', 'resource': 'fecha', 'wts': 1542123362917, 'ts': 1542123362917, 'channel': 'P1'}] 
+
+
+[ 2018-11-13 07:38:02.290632 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 543
+NVotos: 470
+MongoDB:  5beaefda5f627d2c30956cac
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1542123482683, 'channel': 'P1', 'ts': 1542123482683, 'resource': 'titulo', 'owner': 'adrian_gs', '_id': '5beaefda074cec304e6b76ed', 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal '}, {'wts': 1542123482683, 'channel': 'P1', 'ts': 1542123482683, 'resource': 'votos', 'owner': 'adrian_gs', '_id': '5beaefda074cec304e6b76ee', 'data': 470}, {'wts': 1542123482683, 'channel': 'P1', 'ts': 1542123482683, 'resource': 'clics', 'owner': 'adrian_gs', '_id': '5beaefda074cec304e6b76ef', 'data': 543}, {'wts': 1542123482683, 'channel': 'P1', 'ts': 1542123482683, 'resource': 'fecha', 'owner': 'adrian_gs', '_id': '5beaefda074cec304e6b76f0', 'data': '2018-13-11 07:38:02'}] 
+
+
+[ 2018-11-13 07:40:02.866794 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 556
+NVotos: 482
+MongoDB:  5beaf0525f627d2c3a83f792
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'ts': 1542123603119, '_id': '5beaf053074cec304e6b7850', 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'channel': 'P1', 'wts': 1542123603119, 'resource': 'titulo'}, {'owner': 'adrian_gs', 'ts': 1542123603119, '_id': '5beaf053074cec304e6b7851', 'data': 482, 'channel': 'P1', 'wts': 1542123603119, 'resource': 'votos'}, {'owner': 'adrian_gs', 'ts': 1542123603119, '_id': '5beaf053074cec304e6b7852', 'data': 556, 'channel': 'P1', 'wts': 1542123603119, 'resource': 'clics'}, {'owner': 'adrian_gs', 'ts': 1542123603119, '_id': '5beaf053074cec304e6b7853', 'data': '2018-13-11 07:40:02', 'channel': 'P1', 'wts': 1542123603119, 'resource': 'fecha'}] 
+
+
+[ 2018-11-13 07:42:02.436589 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 569
+NVotos: 491
+MongoDB:  5beaf0ca5f627d2c44c78ca8
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1542123722695, 'owner': 'adrian_gs', 'channel': 'P1', 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'resource': 'titulo', '_id': '5beaf0ca074cec304e6b7943', 'ts': 1542123722695}, {'wts': 1542123722695, 'owner': 'adrian_gs', 'channel': 'P1', 'data': 491, 'resource': 'votos', '_id': '5beaf0ca074cec304e6b7944', 'ts': 1542123722695}, {'wts': 1542123722695, 'owner': 'adrian_gs', 'channel': 'P1', 'data': 569, 'resource': 'clics', '_id': '5beaf0ca074cec304e6b7945', 'ts': 1542123722695}, {'wts': 1542123722695, 'owner': 'adrian_gs', 'channel': 'P1', 'data': '2018-13-11 07:42:02', 'resource': 'fecha', '_id': '5beaf0ca074cec304e6b7946', 'ts': 1542123722695}] 
+
+
+[ 2018-11-13 07:44:03.481950 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 582
+NVotos: 504
+MongoDB:  5beaf1435f627d2c4e85ded3
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'ts': 1542123844754, '_id': '5beaf144074cec304e6b7a0b', 'channel': 'P1', 'resource': 'titulo', 'wts': 1542123844754, 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal '}, {'owner': 'adrian_gs', 'ts': 1542123844754, '_id': '5beaf144074cec304e6b7a0c', 'channel': 'P1', 'resource': 'votos', 'wts': 1542123844754, 'data': 504}, {'owner': 'adrian_gs', 'ts': 1542123844754, '_id': '5beaf144074cec304e6b7a0d', 'channel': 'P1', 'resource': 'clics', 'wts': 1542123844754, 'data': 582}, {'owner': 'adrian_gs', 'ts': 1542123844754, '_id': '5beaf144074cec304e6b7a0e', 'channel': 'P1', 'resource': 'fecha', 'wts': 1542123844754, 'data': '2018-13-11 07:44:03'}] 
+
+
+[ 2018-11-13 07:46:02.390288 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 590
+NVotos: 512
+MongoDB:  5beaf1ba5f627d2c5839e636
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1542123962651, 'channel': 'P1', '_id': '5beaf1ba074cec304e6b7b6a', 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'owner': 'adrian_gs', 'wts': 1542123962651, 'resource': 'titulo'}, {'ts': 1542123962651, 'channel': 'P1', '_id': '5beaf1ba074cec304e6b7b6b', 'data': 512, 'owner': 'adrian_gs', 'wts': 1542123962651, 'resource': 'votos'}, {'ts': 1542123962651, 'channel': 'P1', '_id': '5beaf1ba074cec304e6b7b6c', 'data': 590, 'owner': 'adrian_gs', 'wts': 1542123962651, 'resource': 'clics'}, {'ts': 1542123962651, 'channel': 'P1', '_id': '5beaf1ba074cec304e6b7b6d', 'data': '2018-13-11 07:46:02', 'owner': 'adrian_gs', 'wts': 1542123962651, 'resource': 'fecha'}] 
+
+
+[ 2018-11-13 07:48:03.309032 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 609
+NVotos: 526
+MongoDB:  5beaf2335f627d2c625b9621
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'resource': 'titulo', 'ts': 1542124083577, 'wts': 1542124083577, 'owner': 'adrian_gs', 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', '_id': '5beaf233074cec304e6b7c1f'}, {'channel': 'P1', 'resource': 'votos', 'ts': 1542124083577, 'wts': 1542124083577, 'owner': 'adrian_gs', 'data': 526, '_id': '5beaf233074cec304e6b7c20'}, {'channel': 'P1', 'resource': 'clics', 'ts': 1542124083577, 'wts': 1542124083577, 'owner': 'adrian_gs', 'data': 609, '_id': '5beaf233074cec304e6b7c21'}, {'channel': 'P1', 'resource': 'fecha', 'ts': 1542124083577, 'wts': 1542124083577, 'owner': 'adrian_gs', 'data': '2018-13-11 07:48:03', '_id': '5beaf233074cec304e6b7c22'}] 
+
+
+[ 2018-11-13 07:50:03.290275 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 622
+NVotos: 533
+MongoDB:  5beaf2ab5f627d2c6c2804a0
+['mytable', 'system.indexes']
+Beebotte:  [{'wts': 1542124203555, 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'ts': 1542124203555, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5beaf2ab074cec304e6b7d12', 'resource': 'titulo'}, {'wts': 1542124203555, 'data': 533, 'ts': 1542124203555, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5beaf2ab074cec304e6b7d13', 'resource': 'votos'}, {'wts': 1542124203555, 'data': 622, 'ts': 1542124203555, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5beaf2ab074cec304e6b7d14', 'resource': 'clics'}, {'wts': 1542124203555, 'data': '2018-13-11 07:50:03', 'ts': 1542124203555, 'channel': 'P1', 'owner': 'adrian_gs', '_id': '5beaf2ab074cec304e6b7d15', 'resource': 'fecha'}] 
+
+
+[ 2018-11-13 07:52:03.132074 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 632
+NVotos: 542
+MongoDB:  5beaf3235f627d2c80f0daa6
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', '_id': '5beaf323074cec304e6b7e4a', 'channel': 'P1', 'ts': 1542124323389, 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'wts': 1542124323389, 'owner': 'adrian_gs'}, {'resource': 'votos', '_id': '5beaf323074cec304e6b7e4b', 'channel': 'P1', 'ts': 1542124323389, 'data': 542, 'wts': 1542124323389, 'owner': 'adrian_gs'}, {'resource': 'clics', '_id': '5beaf323074cec304e6b7e4c', 'channel': 'P1', 'ts': 1542124323389, 'data': 632, 'wts': 1542124323389, 'owner': 'adrian_gs'}, {'resource': 'fecha', '_id': '5beaf323074cec304e6b7e4d', 'channel': 'P1', 'ts': 1542124323389, 'data': '2018-13-11 07:52:03', 'wts': 1542124323389, 'owner': 'adrian_gs'}] 
+
+
+[ 2018-11-13 07:54:03.130968 ]:
+Titulo: [' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ']
+N_Clics: 644
+NVotos: 552
+MongoDB:  5beaf39b5f627d2cb2bce395
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1542124443517, '_id': '5beaf39b074cec304e6b7ef9', 'resource': 'titulo', 'wts': 1542124443517, 'data': ' Pablo Crespo ratifica ante el Congreso que todos los secretarios generales del PP sabían que había financiación ilegal ', 'owner': 'adrian_gs', 'channel': 'P1'}, {'ts': 1542124443517, '_id': '5beaf39b074cec304e6b7efa', 'resource': 'votos', 'wts': 1542124443517, 'data': 552, 'owner': 'adrian_gs', 'channel': 'P1'}, {'ts': 1542124443517, '_id': '5beaf39b074cec304e6b7efb', 'resource': 'clics', 'wts': 1542124443517, 'data': 644, 'owner': 'adrian_gs', 'channel': 'P1'}, {'ts': 1542124443517, '_id': '5beaf39b074cec304e6b7efc', 'resource': 'fecha', 'wts': 1542124443517, 'data': '2018-13-11 07:54:03', 'owner': 'adrian_gs', 'channel': 'P1'}] 
+
+
+[ 2018-11-13 07:56:03.132246 ]:
+Titulo: [' Queen supera al reguetón en Spotify y es lo que más se escucha en todo el mundo ']
+N_Clics: 20
+NVotos: 13
+MongoDB:  5beaf4135f627d2ccd7da3be
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1542124563401, 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5beaf413074cec304e6b7fda', 'data': ' Queen supera al reguetón en Spotify y es lo que más se escucha en todo el mundo ', 'wts': 1542124563401, 'resource': 'titulo'}, {'ts': 1542124563401, 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5beaf413074cec304e6b7fdb', 'data': 13, 'wts': 1542124563401, 'resource': 'votos'}, {'ts': 1542124563401, 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5beaf413074cec304e6b7fdc', 'data': 20, 'wts': 1542124563401, 'resource': 'clics'}, {'ts': 1542124563401, 'owner': 'adrian_gs', 'channel': 'P1', '_id': '5beaf413074cec304e6b7fdd', 'data': '2018-13-11 07:56:03', 'wts': 1542124563401, 'resource': 'fecha'}] 
+
+
+[ 2018-11-13 07:58:03.066304 ]:
+Titulo: [' Queen supera al reguetón en Spotify y es lo que más se escucha en todo el mundo ']
+N_Clics: 58
+NVotos: 27
+MongoDB:  5beaf48b5f627d2ce9cdc104
+['mytable', 'system.indexes']
+Beebotte:  [{'resource': 'titulo', 'data': ' Queen supera al reguetón en Spotify y es lo que más se escucha en todo el mundo ', 'channel': 'P1', 'ts': 1542124683332, '_id': '5beaf48b074cec304e6b807f', 'owner': 'adrian_gs', 'wts': 1542124683332}, {'resource': 'votos', 'data': 27, 'channel': 'P1', 'ts': 1542124683332, '_id': '5beaf48b074cec304e6b8080', 'owner': 'adrian_gs', 'wts': 1542124683332}, {'resource': 'clics', 'data': 58, 'channel': 'P1', 'ts': 1542124683332, '_id': '5beaf48b074cec304e6b8081', 'owner': 'adrian_gs', 'wts': 1542124683332}, {'resource': 'fecha', 'data': '2018-13-11 07:58:03', 'channel': 'P1', 'ts': 1542124683332, '_id': '5beaf48b074cec304e6b8082', 'owner': 'adrian_gs', 'wts': 1542124683332}] 
+
+
+[ 2018-11-13 08:00:02.956642 ]:
+Titulo: [' Queen supera al reguetón en Spotify y es lo que más se escucha en todo el mundo ']
+N_Clics: 94
+NVotos: 37
+MongoDB:  5beaf5025f627d2cff6a0bff
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1542124803264, 'wts': 1542124803264, 'data': ' Queen supera al reguetón en Spotify y es lo que más se escucha en todo el mundo ', 'owner': 'adrian_gs', 'resource': 'titulo', '_id': '5beaf503074cec304e6b818b', 'channel': 'P1'}, {'ts': 1542124803264, 'wts': 1542124803264, 'data': 37, 'owner': 'adrian_gs', 'resource': 'votos', '_id': '5beaf503074cec304e6b818c', 'channel': 'P1'}, {'ts': 1542124803264, 'wts': 1542124803264, 'data': 94, 'owner': 'adrian_gs', 'resource': 'clics', '_id': '5beaf503074cec304e6b818d', 'channel': 'P1'}, {'ts': 1542124803264, 'wts': 1542124803264, 'data': '2018-13-11 08:00:02', 'owner': 'adrian_gs', 'resource': 'fecha', '_id': '5beaf503074cec304e6b818e', 'channel': 'P1'}] 
+
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1252, in connect
+    super().connect()
+  File "/usr/lib/python3.5/http/client.py", line 849, in connect
+    (self.host,self.port), self.timeout, self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1260, in connect
+    server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 377, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 752, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 988, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 633, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab/P1/P1/app/proc_data.py", line 11, in <module>
+    html = urlreq.urlopen(req).read()
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)>
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[ 2018-11-13 14:04:02.578427 ]:
+Titulo: [' Mujica sobre la clase media: &quot;Con un pueblo muerto de hambre los bolicheros no venden un carajo” ']
+N_Clics: 102
+NVotos: 33
+MongoDB:  5beb4a525f627d0882d4a921
+['mytable', 'system.indexes']
+Beebotte:  [{'ts': 1542146643082, 'channel': 'P1', 'data': ' Mujica sobre la clase media: &quot;Con un pueblo muerto de hambre los bolicheros no venden un carajo” ', 'wts': 1542146643082, 'resource': 'titulo', '_id': '5beb4a53074cec304e6c321c', 'owner': 'adrian_gs'}, {'ts': 1542146643082, 'channel': 'P1', 'data': 33, 'wts': 1542146643082, 'resource': 'votos', '_id': '5beb4a53074cec304e6c321d', 'owner': 'adrian_gs'}, {'ts': 1542146643082, 'channel': 'P1', 'data': 102, 'wts': 1542146643082, 'resource': 'clics', '_id': '5beb4a53074cec304e6c321e', 'owner': 'adrian_gs'}, {'ts': 1542146643082, 'channel': 'P1', 'data': '2018-13-11 14:04:02', 'wts': 1542146643082, 'resource': 'fecha', '_id': '5beb4a53074cec304e6c321f', 'owner': 'adrian_gs'}] 
+
+
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[ 2018-11-13 14:06:02.526117 ]:
+Titulo: [' Trump caza al rey de Marruecos durmiendo durante el discurso de Macron ']
+N_Clics: 186
+NVotos: 13
+MongoDB:  5beb4aca5f627d0890d76ef9
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Trump caza al rey de Marruecos durmiendo durante el discurso de Macron ', '_id': '5beb4acb074cec304e6c3330', 'wts': 1542146763177, 'channel': 'P1', 'ts': 1542146763177, 'resource': 'titulo', 'owner': 'adrian_gs'}, {'data': 13, '_id': '5beb4acb074cec304e6c3331', 'wts': 1542146763177, 'channel': 'P1', 'ts': 1542146763177, 'resource': 'votos', 'owner': 'adrian_gs'}, {'data': 186, '_id': '5beb4acb074cec304e6c3332', 'wts': 1542146763177, 'channel': 'P1', 'ts': 1542146763177, 'resource': 'clics', 'owner': 'adrian_gs'}, {'data': '2018-13-11 14:06:02', '_id': '5beb4acb074cec304e6c3333', 'wts': 1542146763177, 'channel': 'P1', 'ts': 1542146763177, 'resource': 'fecha', 'owner': 'adrian_gs'}] 
+
+
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[ 2018-11-13 14:08:02.555734 ]:
+Titulo: [' Trump caza al rey de Marruecos durmiendo durante el discurso de Macron ']
+N_Clics: 315
+NVotos: 16
+MongoDB:  5beb4b425f627d08c720c80b
+['mytable', 'system.indexes']
+Beebotte:  [{'data': ' Trump caza al rey de Marruecos durmiendo durante el discurso de Macron ', 'wts': 1542146883012, 'owner': 'adrian_gs', 'resource': 'titulo', 'channel': 'P1', 'ts': 1542146883012, '_id': '5beb4b43074cec304e6c33ef'}, {'data': 16, 'wts': 1542146883012, 'owner': 'adrian_gs', 'resource': 'votos', 'channel': 'P1', 'ts': 1542146883012, '_id': '5beb4b43074cec304e6c33f0'}, {'data': 315, 'wts': 1542146883012, 'owner': 'adrian_gs', 'resource': 'clics', 'channel': 'P1', 'ts': 1542146883012, '_id': '5beb4b43074cec304e6c33f1'}, {'data': '2018-13-11 14:08:02', 'wts': 1542146883012, 'owner': 'adrian_gs', 'resource': 'fecha', 'channel': 'P1', 'ts': 1542146883012, '_id': '5beb4b43074cec304e6c33f2'}] 
+
+

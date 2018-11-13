@@ -3,4 +3,29 @@
   <div class="jumbo">
     <h2>Data Page<h2>
   </div>
+  <div class="data">
+    <table>
+      <tr>
+        <th>Título de la noticia</th>
+        <th>Número de clics</th>
+        <th>Número de meneos</th>
+        <th>Fecha y hora</th>
+      </tr>
+      <tr>
+        <td>{{ titulo }}</td>
+        <td>{{ clics }}</td>
+        <td>{{ votos }}</td>
+        <td>{{ fecha }}</td>
+      </tr>
+    </table>
+     <form action = "http://172.16.226.129:5000/dashboard" method = "post">
+         <p>Umbral: </p>
+         <p><input type = "text" name = "umbral" value = 100 /></p>
+         <p><input type = "submit" value = "Submit" /></p>
+     </form>
+     <form action = "http://172.16.226.129:5000/dashboard" method = "post">
+         <p><input type = "submit" value = "Pedir media" /></p>
+     </form>
+     <p>{{ media }} - {{ database }}</p>
+  </div>
 {% endblock %}

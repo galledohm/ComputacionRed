@@ -79,6 +79,14 @@ div.jumbo {
      -moz-border-radius: 6px;
           border-radius: 6px;
 }
+
+div.data {
+ height: 300px;
+ width: 100%;
+ background-color: black;
+ background-image: linear-gradient(0deg,black,grey);
+}
+ 
  
 h2 {
   font-size: 3em;

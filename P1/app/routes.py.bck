@@ -1,21 +1,19 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 from flask import Flask, render_template, redirect, request
-#import urllib.request as urlreq
+import urllib.request as urlreq
 import re
 import datetime
 from pymongo import MongoClient
-import requests
 
 app = Flask(__name__)      
 
+""" Función para el procesado de datos html y escritura en BBDD"""
 def proc_data():
     #Obtencion de la pagina web
-    #req = urlreq.Request('https://meneame.net')
-    #html = urlreq.urlopen(req, verify=False).read()
-    #html_text = html.decode(encoding='UTF-8')   #byte-type a texto
-    html = requests.get('https://meneame.net', verify=False) #Con este método no se verifica el certificado SSL
-    html_text = html.text#decode(encoding='UTF-8')   #byte-type a texto
+    req = urlreq.Request('www.meneame.net')
+    html = urlreq.urlopen(req).read()
+    html_text = html.decode(encoding='UTF-8')   #byte-type a texto
 
     #El contenido del título es el único ubicado en el header tipo 2, por tanto, se extraen todas las cadenas entre dichos tags
     titulo_h2 = re.findall('<h2>(.*?)</h2>',html_text)  #Ahorra usar reg.exp de urls
@@ -32,19 +30,7 @@ def proc_data():
 
     #Obtencion de la fecha y hora del sistema
     fecha = datetime.datetime.now()
-    return titulo,n_clics_first,n_votos_first,fecha
-
-def proc_umbral(umbral):
-    client_mdb = MongoClient('localhost', 27017)
-    mongodb = client_mdb['p1-database']
-    counter = 0
-    items = []
-    for item in mongodb.mytable.find({"clics": {"$gt": umbral}}):
-        if counter < 10:
-            aux = dict(titulo = item['titulo'], clics = item['clics'] , votos = item['votos'], date = item['date'])
-            items.append(aux)
-            counter = counter + 1
-    return items
+    return titulo,int(n_clics_first),int(n_votos_first),fecha
 
 @app.route('/')
 @app.route('/index')
@@ -54,12 +40,6 @@ def home():
 
 @app.route('/dashboard',methods = ['POST', 'GET'])
 def dashboard():
-    if request.method == 'POST':
-      umbral = request.form['umbral']
-      print ('Umbral POST: ',umbral)
-      items = proc_umbral(umbral)
-      print ('\nPOST DATA:\n',items,'\n')
-      return render_template('dashboard.html', items=items)
     return render_template('dashboard.html')
 
 @app.route('/about')
