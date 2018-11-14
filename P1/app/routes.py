@@ -5,7 +5,11 @@ from flask import Flask, render_template, redirect, request
 import re
 import datetime
 from pymongo import MongoClient
+from beebotte import *
 import requests
+import numpy
+
+global database  #Variable global para indicar la BBDD a usar
 
 app = Flask(__name__)      
 
@@ -39,17 +43,44 @@ def proc_umbral(umbral):
     mongodb = client_mdb['p1-database']
     counter = 0
     items = []
-    for item in mongodb.mytable.find({"clics": {"$gt": umbral}}):
+    for item in mongodb.mytable.find({"clics": {"$gt": int(umbral)}}):
         if counter < 10:
             aux = dict(titulo = item['titulo'], clics = item['clics'] , votos = item['votos'], date = item['date'])
             items.append(aux)
             counter = counter + 1
     return items
 
+def mean_mdb():
+    global database
+    client_mdb = MongoClient('localhost', 27017)
+    mongodb = client_mdb['p1-database']
+    items = []
+    for item in mongodb.mytable.find({}):
+        items.append(item['clics'])
+
+    media = numpy.mean(items)
+    print ('Media MongoDB: ',media)
+    database = 'Beebotte'
+    return media
+
+def mean_beebotte():
+    global database
+    database = 'MongoDB'
+    bclient = BBT("tSMIxiJhc2vrUZV04YLPJHBP", "B8dx4NVHCoQW3n6ngsD8WOHUcQ4JDujy")
+    records = bclient.read('P1', 'clics', limit = 10000 , source = 'raw')
+    items = []
+    for item in records:
+        items.append(int(item['data']))
+    media = numpy.mean(items)
+    print ('Media Beebotte',media)
+    return media
+
 @app.route('/')
 @app.route('/index')
 def home():
+    global database
     titulo,clics,votos,fecha = proc_data()
+    database = 'MongoDB'
     return render_template('home.html', titulo=titulo, clics=clics,votos=votos, fecha=fecha.strftime('%Y-%d%m %H:%M:%S'))
 
 @app.route('/dashboard',methods = ['POST', 'GET'])
@@ -61,6 +92,17 @@ def dashboard():
       print ('\nPOST DATA:\n',items,'\n')
       return render_template('dashboard.html', items=items)
     return render_template('dashboard.html')
+    
+@app.route('/mean')
+def media():
+    global database
+    print(database)
+    local_db = database
+    if database == 'MongoDB':
+        media = mean_mdb()
+    else:
+        media = mean_beebotte()
+    return render_template('dashboard.html', media=media, database=local_db)
 
 @app.route('/about')
 def about():
