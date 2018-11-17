@@ -16,7 +16,7 @@
 	     <li><a href="https://beebotte.com/dash/90ee6b50-e3b5-11e8-a9e5-9db85b2d1393">Graphs</a></li>
 	     <li><a href="{{ url_for('about') }}">About</a></li>
 	     {%if username is defined %}
-                <li role="presentation"> Logged in {{username}}<a href="/logout">Logout</a>
+                <li role="presentation"> Logged in {{username}}  <a href="/logout">Logout</a>
                 </li>
                 {% else %}
                 <li role="presentation"><a href="/signin">Sign In</a>

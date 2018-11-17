@@ -6806,3 +6806,81 @@ MongoDB:  5bf02c025f627d06f199eb82
 Beebotte:  [{'resource': 'titulo', 'data': ' ¿Qué potencia contratar en casa para cargar un coche eléctrico? ', 'owner': 'adrian_gs', 'wts': 1542466563264, 'channel': 'P1', '_id': '5bf02c03074cec304e7685b7', 'ts': 1542466563264}, {'resource': 'votos', 'data': 21, 'owner': 'adrian_gs', 'wts': 1542466563264, 'channel': 'P1', '_id': '5bf02c03074cec304e7685b8', 'ts': 1542466563264}, {'resource': 'clics', 'data': 405, 'owner': 'adrian_gs', 'wts': 1542466563264, 'channel': 'P1', '_id': '5bf02c03074cec304e7685b9', 'ts': 1542466563264}, {'resource': 'fecha', 'data': '2018-17-11 06:56:02', 'owner': 'adrian_gs', 'wts': 1542466563264, 'channel': 'P1', '_id': '5bf02c03074cec304e7685ba', 'ts': 1542466563264}] 
 
 
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[ 2018-11-17 06:58:02.934609 ]:
+Titulo: [' ¿Qué potencia contratar en casa para cargar un coche eléctrico? ']
+N_Clics: 434
+NVotos: 23
+MongoDB:  5bf02c7a5f627d0725829368
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'ts': 1542466683488, 'wts': 1542466683488, 'resource': 'titulo', '_id': '5bf02c7b074cec304e768665', 'data': ' ¿Qué potencia contratar en casa para cargar un coche eléctrico? ', 'channel': 'P1'}, {'owner': 'adrian_gs', 'ts': 1542466683488, 'wts': 1542466683488, 'resource': 'votos', '_id': '5bf02c7b074cec304e768666', 'data': 23, 'channel': 'P1'}, {'owner': 'adrian_gs', 'ts': 1542466683488, 'wts': 1542466683488, 'resource': 'clics', '_id': '5bf02c7b074cec304e768667', 'data': 434, 'channel': 'P1'}, {'owner': 'adrian_gs', 'ts': 1542466683488, 'wts': 1542466683488, 'resource': 'fecha', '_id': '5bf02c7b074cec304e768668', 'data': '2018-17-11 06:58:02', 'channel': 'P1'}] 
+
+
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[ 2018-11-17 07:00:02.964442 ]:
+Titulo: [' ¿Qué potencia contratar en casa para cargar un coche eléctrico? ']
+N_Clics: 479
+NVotos: 26
+MongoDB:  5bf02cf25f627d072fa8c32b
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'wts': 1542466803433, 'channel': 'P1', 'ts': 1542466803433, 'resource': 'titulo', '_id': '5bf02cf3074cec304e768775', 'data': ' ¿Qué potencia contratar en casa para cargar un coche eléctrico? '}, {'owner': 'adrian_gs', 'wts': 1542466803433, 'channel': 'P1', 'ts': 1542466803433, 'resource': 'votos', '_id': '5bf02cf3074cec304e768776', 'data': 26}, {'owner': 'adrian_gs', 'wts': 1542466803433, 'channel': 'P1', 'ts': 1542466803433, 'resource': 'clics', '_id': '5bf02cf3074cec304e768777', 'data': 479}, {'owner': 'adrian_gs', 'wts': 1542466803433, 'channel': 'P1', 'ts': 1542466803433, 'resource': 'fecha', '_id': '5bf02cf3074cec304e768778', 'data': '2018-17-11 07:00:02'}] 
+
+
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[ 2018-11-17 07:02:02.461240 ]:
+Titulo: [' ¿Qué potencia contratar en casa para cargar un coche eléctrico? ']
+N_Clics: 508
+NVotos: 26
+MongoDB:  5bf02d6a5f627d0739e09109
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1542466922860, 'data': ' ¿Qué potencia contratar en casa para cargar un coche eléctrico? ', '_id': '5bf02d6a074cec304e768885', 'ts': 1542466922860, 'resource': 'titulo'}, {'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1542466922860, 'data': 26, '_id': '5bf02d6a074cec304e768886', 'ts': 1542466922860, 'resource': 'votos'}, {'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1542466922860, 'data': 508, '_id': '5bf02d6a074cec304e768887', 'ts': 1542466922860, 'resource': 'clics'}, {'channel': 'P1', 'owner': 'adrian_gs', 'wts': 1542466922860, 'data': '2018-17-11 07:02:02', '_id': '5bf02d6a074cec304e768888', 'ts': 1542466922860, 'resource': 'fecha'}] 
+
+
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[ 2018-11-17 07:04:03.023928 ]:
+Titulo: [' ¿Qué potencia contratar en casa para cargar un coche eléctrico? ']
+N_Clics: 549
+NVotos: 27
+MongoDB:  5bf02de35f627d074faff808
+['mytable', 'system.indexes']
+Beebotte:  [{'channel': 'P1', 'wts': 1542467043542, 'data': ' ¿Qué potencia contratar en casa para cargar un coche eléctrico? ', 'owner': 'adrian_gs', 'resource': 'titulo', 'ts': 1542467043542, '_id': '5bf02de3074cec304e768957'}, {'channel': 'P1', 'wts': 1542467043542, 'data': 27, 'owner': 'adrian_gs', 'resource': 'votos', 'ts': 1542467043542, '_id': '5bf02de3074cec304e768958'}, {'channel': 'P1', 'wts': 1542467043542, 'data': 549, 'owner': 'adrian_gs', 'resource': 'clics', 'ts': 1542467043542, '_id': '5bf02de3074cec304e768959'}, {'channel': 'P1', 'wts': 1542467043542, 'data': '2018-17-11 07:04:03', 'owner': 'adrian_gs', 'resource': 'fecha', 'ts': 1542467043542, '_id': '5bf02de3074cec304e76895a'}] 
+
+
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[ 2018-11-17 07:06:02.449726 ]:
+Titulo: [' ¿Qué potencia contratar en casa para cargar un coche eléctrico? ']
+N_Clics: 582
+NVotos: 28
+MongoDB:  5bf02e5a5f627d078b49c60a
+['mytable', 'system.indexes']
+Beebotte:  [{'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542467163017, '_id': '5bf02e5b074cec304e768a6b', 'ts': 1542467163017, 'resource': 'titulo', 'data': ' ¿Qué potencia contratar en casa para cargar un coche eléctrico? '}, {'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542467163017, '_id': '5bf02e5b074cec304e768a6c', 'ts': 1542467163017, 'resource': 'votos', 'data': 28}, {'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542467163017, '_id': '5bf02e5b074cec304e768a6d', 'ts': 1542467163017, 'resource': 'clics', 'data': 582}, {'owner': 'adrian_gs', 'channel': 'P1', 'wts': 1542467163017, '_id': '5bf02e5b074cec304e768a6e', 'ts': 1542467163017, 'resource': 'fecha', 'data': '2018-17-11 07:06:02'}] 
+
+
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/home/lab/P1/P1/lib/python3.5/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[ 2018-11-17 07:08:02.725785 ]:
+Titulo: [' ¿Qué potencia contratar en casa para cargar un coche eléctrico? ']
+N_Clics: 617
+NVotos: 29
+MongoDB:  5bf02ed25f627d07c0cfeb41
+['mytable', 'system.indexes']
+Beebotte:  [{'_id': '5bf02ed3074cec304e768b52', 'ts': 1542467283331, 'wts': 1542467283331, 'owner': 'adrian_gs', 'resource': 'titulo', 'data': ' ¿Qué potencia contratar en casa para cargar un coche eléctrico? ', 'channel': 'P1'}, {'_id': '5bf02ed3074cec304e768b53', 'ts': 1542467283331, 'wts': 1542467283331, 'owner': 'adrian_gs', 'resource': 'votos', 'data': 29, 'channel': 'P1'}, {'_id': '5bf02ed3074cec304e768b54', 'ts': 1542467283331, 'wts': 1542467283331, 'owner': 'adrian_gs', 'resource': 'clics', 'data': 617, 'channel': 'P1'}, {'_id': '5bf02ed3074cec304e768b55', 'ts': 1542467283331, 'wts': 1542467283331, 'owner': 'adrian_gs', 'resource': 'fecha', 'data': '2018-17-11 07:08:02', 'channel': 'P1'}] 
+
+
