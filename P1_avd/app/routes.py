@@ -95,7 +95,7 @@ def home():
     titulo,clics,votos,fecha = proc_data()
     database = 'MongoDB'
     if 'username' in session:
-        return render_template('home.html', username=session['username'], titulo=titulo, clics=clics,votos=votos, fecha=fecha.strftime('%Y-%d%m %H:%M:%S'))
+        return render_template('home.html', username=session['username'], titulo=titulo, clics=clics,votos=votos, fecha=fecha.strftime('%Y-%d-%m %H:%M:%S'))
     return render_template('home.html', titulo=titulo, clics=clics,votos=votos, fecha=fecha.strftime('%Y-%d%m %H:%M:%S'))
 
 #Página de inicio con loggin de un usuario
@@ -107,15 +107,15 @@ def home():
 
 #Página de datos
 @app.route('/dashboard',methods = ['POST', 'GET'])
-def dashboard():
-    if 'username' in session:
-        if request.method == 'POST':
-          umbral = request.form['umbral']
-          print ('Umbral POST: ',umbral)
-          items = proc_umbral(umbral)
-          print ('\nPOST DATA:\n',items,'\n')
-          return render_template('dashboard.html', items=items, username=session['username'])
-        return render_template('dashboard.html', username=session['username'])
+def dashboard():    
+    if request.method == 'POST':
+        umbral = request.form['umbral']
+        print ('Umbral POST: ',umbral)
+        items = proc_umbral(umbral)
+        print ('\nPOST DATA:\n',items,'\n')
+        if 'username' in session:            
+            return render_template('dashboard.html', items=items, username=session['username'])
+        return render_template('dashboard.html', items=items)
     return render_template('dashboard.html')
 
 #Acción para obtener las medias
